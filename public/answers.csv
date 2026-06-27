@@ -1,0 +1,701 @@
+bloque,num_bloque,respuesta,enunciado
+especifico,1,,¿Qué capa del modelo OSI se relaciona con la transmisión de bits puros a través de un canal de transmisión?
+especifico,2,,"¿Qué capa del modelo OSI ofrece los servicios: control del diálogo, manejo de tokens y sincronización?"
+especifico,3,,¿Qué capa del modelo OSI determina cómo se encaminan los paquetes desde el origen al destino?
+especifico,4,,¿En qué capa del modelo TCP/IP se define el protocolo SMTP?
+especifico,5,,¿Cuál de los siguientes protocolos encuadrarías en la capa interred del modelo TCP/IP?
+especifico,6,,¿Qué capa del modelo OSI se encargaría de la siguiente tarea?: El emisor divide los datos de entrada en tramas de datos y transmite las tramas en forma secuencial.
+especifico,7,,¿Cuál de los siguientes protocolos encuadrarías en la capa de transporte del modelo de referencia TCP/IP?
+especifico,8,,¿Cuál es el orden correcto de las capas del modelo de referencia OSI?
+especifico,9,,¿Qué capa del modelo de referencia OSI tiene como función principal dividir los datos que recibe de la capa de red en tramas que pueden ser transmitidas por la capa física?
+especifico,10,,¿A qué capa del modelo de referencia OSI corresponden los protocolos Ethernet y Point-to-Point Protocol (PPP)?
+especifico,11,,"En una arquitectura de comunicaciones como OSI y TCP/IP, ¿cómo se lleva a cabo la interacción entre entidades que están en la misma capa pero en diferentes equipos?"
+especifico,12,,"La arquitectura de protocolos OSI tiene 7 capas, mientras que la TCP/IP tiene solo 5. ¿Qué implica esta reducción?"
+especifico,13,,"En el contexto del modelo OSI, la distinción entre “servicio”, “interfaz” y “protocolo” implica que:"
+especifico,14,,Las unidades de datos que se intercambian en el nivel 2 (capa de conexión o enlace de datos) se denominan:
+especifico,15,,Para identificar unívocamente un servicio en un entorno de comunicaciones TCP/IP se requiere:
+especifico,16,,El modelo de referencia OSI para la interconexión de sistemas abiertos está estructurado en:
+especifico,17,,¿Qué función realiza la capa de transporte en el modelo OSI?
+especifico,18,,"En el modelo OSI, la arquitectura por niveles tiene como objetivo principal:"
+especifico,19,,"En el proceso de encapsulación descrito en TCP/IP, el orden correcto al enviar datos desde una aplicación es:"
+especifico,20,,"En el modelo OSI, la comunicación entre capas homólogas es:"
+especifico,21,,"Según el modelo OSI, ¿cuál es la función principal del nivel de transporte?"
+especifico,22,,"En la comparación estructural entre OSI y TCP/IP, una diferencia clave es que:"
+especifico,23,,"En el modelo OSI, el concepto de “servicio” hace referencia a:"
+especifico,24,,"En TCP/IP, el protocolo IP pertenece al nivel que en el modelo OSI corresponde principalmente a:"
+especifico,25,,"En una LAN, ¿en qué tipo de transmisiones se utiliza el código de línea 4B5B?"
+especifico,26,,¿En qué topología de redes LAN cableadas tiene sentido la utilización de un switch?
+especifico,27,,¿Qué medio de transmisión está permitido si se emplea el esquema de banda base 1000Base-SX?
+especifico,28,,¿En qué variante de la norma IEEE 802.11 se usa MIMO (Multiple -Input Multiple- Output)?
+especifico,29,,¿Qué dos protocolos se definen en el denominado MAC inalámbrico de principio distribuido (DFWMAC – Distributed Foundation Wireless MAC) para realizar contención y sondeo a fin de posibilitar un acceso distribuido con un control central opcional?
+especifico,30,,¿Cuál de estas técnicas sirve para corregir errores ocurridos durante la transmisión de una trama?
+especifico,31,,¿Qué campos contiene una trama 802.3?
+especifico,32,,¿Cuál de estas afirmaciones acerca de las direcciones MAC es correcta?
+especifico,33,,¿Qué ofrece el protocolo de transporte UDP?
+especifico,34,,La familia de estándares IEEE 802.11 corresponde a:
+especifico,35,,¿Cuál de estos protocolos ofrece un servicio de intercambio de paquetes (datagramas) entre dos equipos conectados a Internet?
+especifico,36,,En una red Ethernet capturamos una trama con información correspondiente a HTTP. ¿Cuál de estas afirmaciones es correcta?
+especifico,37,,¿Sobre qué medios físicos pueden funcionar las redes Ethernet (802.3)?
+especifico,38,,Las tecnologías de transmisión Frame Relay y ATM se engloban dentro de:
+especifico,39,,Los métodos de conmutación más importantes en redes de comunicación de datos no incluyen:
+especifico,40,,¿Qué característica distingue a una red LAN frente a una WAN?
+especifico,41,,"En una red Ethernet tradicional con CSMA/CD, una colisión se detecta cuando:"
+especifico,42,,En Ethernet conmutada en modo full-duplex:
+especifico,43,,¿Cuál es la unidad de datos en el nivel de enlace de datos en Ethernet?
+especifico,44,,En la conmutación de paquetes orientada a circuitos virtuales:
+especifico,45,,El protocolo TCP se caracteriza por ser:
+especifico,46,,"En una red Ethernet 802.3, el campo FCS (Frame Check Sequence) de la trama se utiliza para:"
+especifico,47,,"En una red IP, el campo TTL (Time To Live) de un paquete se utiliza para:"
+especifico,48,,¿Cuál de los siguientes protocolos se utiliza típicamente en una red LAN Ethernet para el acceso al medio compartido?
+especifico,49,,¿Cuál de las siguientes características puede aplicarse en la conmutación de paquetes mediante datagramas?
+especifico,50,,¿Cuál de las siguientes características de los dispositivos de interconexión es correcta?
+especifico,51,,¿Qué información utiliza principalmente un router para decidir por qué interfaz debe reenviar un paquete IP recibido?
+especifico,52,,¿Cuáles son las capas OSI en las que opera un router para la interconexión de dos sistemas?
+especifico,53,,¿Cuál de los siguientes es un tipo de VLAN válido?
+especifico,54,,¿Qué efecto tiene la incorporación de un router entre dos redes LAN distintas?
+especifico,55,,¿Cuál de estos dispositivos sirve para interconectar a nivel 3 (IP) dos o más LAN diferentes?
+especifico,56,,"Un ordenador A tiene dirección IP 192.168.2.12/24 y la pasarela por omisión P en su LAN es 192.168.2.1. A envía un datagrama IP al ordenador B, que tiene dirección IP 192.168.3.18. ¿Cuál de estas afirmaciones es cierta?"
+especifico,57,,ICMP es:
+especifico,58,,¿Qué campo de una trama Ethernet se utiliza para detectar errores?
+especifico,59,,¿Cuál de estas definiciones corresponde a un sistema autónomo (AS) de Internet?
+especifico,60,,"¿Cuál de estos protocolos no es un IGP (Interior Gateway Protocol), es decir, no realiza encaminamiento intradominio?"
+especifico,61,,¿Cuál de estas afirmaciones sobre las direcciones IPv4 es cierta?
+especifico,62,,"Usando NAT, un ISP puede:"
+especifico,63,,¿Cuál de estas afirmaciones sobre las direcciones físicas (MAC) y lógicas (IPv4) es falsa?
+especifico,64,,¿Cuál de los siguientes es un protocolo de enrutamiento?
+especifico,65,,¿Por qué Internet utiliza enrutamiento jerárquico mediante sistemas autónomos?
+especifico,66,,¿Cuál de estos tipos de direcciones no existen en IPv6?
+especifico,67,,¿Cuál es la principal diferencia funcional entre un bridge y un router?
+especifico,68,,"En el encaminamiento basado en vector distancia, cada router:"
+especifico,69,,"En el direccionamiento IPv4 moderno (CIDR), ¿qué característica permite una mayor flexibilidad en la asignación de direcciones IP?"
+especifico,70,,"En una arquitectura TCP/IP, el protocolo ARP se utiliza cuando:"
+especifico,71,,"¿Cuál de las siguientes direcciones IPv6 se utiliza para identificar a un conjunto de interfaces, enviando el paquete a la más cercana según el routing?"
+especifico,72,,"En el algoritmo de Dijkstra utilizado en protocolos de estado de enlace, el objetivo es:"
+especifico,73,,"En el diagrama Entidad/Relación (E/R), los conjuntos de entidades se representan mediante:"
+especifico,74,,"En el modelo relacional, los atributos principales tienen la restricción:"
+especifico,75,,"En el modelo relacional, la operación del álgebra relacional que hace casar las tuplas, cuyos valores coinciden para los atributos que son comunes a ambas relaciones, se denomina:"
+especifico,76,,"En el diseño de un modelo Entidad/Relación (E/R), ¿cuál de las siguientes afirmaciones define mejor lo que es una clave candidata?"
+especifico,77,,¿Cuál de las siguientes no es una base de datos relacional?
+especifico,78,,"En un modelo Entidad/Relación (E/R), si se desea almacenar la o las tarjetas bancarias de un cliente, se añadirá al tipo de entidad “Cliente” el atributo:"
+especifico,79,,"En el contexto del modelado de una base de datos relacional, se desea registrar las asignaturas que una facultad recomienda cursar con anterioridad para matricularse en una asignatura dada. Una asignatura puede tener N asignaturas recomendadas y una misma asignatura puede estar en la lista de recomendadas de varias asignaturas distintas. ¿cómo se denomina ese tipo de interrelación?"
+especifico,80,,"En el modelo Entidad/Relación(E/R), ¿Cómo se llama la entidad que no puede ser identificada de forma única por sus propios atributos?"
+especifico,81,,¿Quién introdujo el modelo Entidad/Relación (E/R)?
+especifico,82,,¿Cuál es el propósito del modelo Entidad/Relacion (E/R)?
+especifico,83,,¿Cuáles son las dos clases de entidades existentes en el modelo Entidad/ Relación (E/R)?
+especifico,84,,En el contexto del modelo Entidad/ Relación (E/R) ¿qué es la cardinalidad de una relación?
+especifico,85,,"En un modelo relacional, ¿qué propiedad garantiza que cada valor de un atributo pertenece al dominio definido?"
+especifico,86,,¿Cuál de las siguientes formas normales elimina dependencias parciales respecto a una clave compuesta?
+especifico,87,,¿Qué significa la propiedad ‘D’ en ACID?
+especifico,88,,"En el modelo Entidad/Relación (E/R), una entidad débil se identifica mediante:"
+especifico,89,,¿Qué operación del álgebra relacional corresponde a seleccionar filas que cumplen un predicado?
+especifico,90,,¿Cuál es el objetivo de la minería de datos?
+especifico,91,,¿Cuál es el objetivo principal del proceso de normalización en el diseño de bases de datos relacionales?
+especifico,92,,"En la notación de cardinalidad min -max (m,M) utilizada en el modelo E/R, ¿Qué representa el valor 'm'?"
+especifico,93,,¿Qué término describe un atributo en una tabla ( Entidad A) cuyos valores deben coincidir con los valores de la clave primaria de otra tabla (Entidad B)?
+especifico,94,,"Cuál de los siguientes modelos de bases de datos es considerado el precursor histórico del modelo relacional, organizando los datos en una estructura de árbol?"
+especifico,95,,¿Qué es una transacción en una base de datos?
+especifico,96,,¿Cuál es la diferencia fundamental entre una clave primaria y una clave candidata?
+especifico,97,,¿Cuál de los siguientes módulos de SAP permite realizar actividades relacionadas con el cumplimiento de las regulaciones financieras gubernamentales?
+especifico,98,,¿Cuál de las siguientes opciones refleja una de las ventajas clave de las innovaciones de ventas en SAP S/4HANA?
+especifico,99,,"¿Qué aplicación SAP permite llevar a cabo la monitorización, administración y control de proyectos (desde el inicio hasta la implementación) dentro de una organización?"
+especifico,100,,¿Cuál de las siguientes afirmaciones es falsa respecto a SAP HANA?
+especifico,101,,¿Cuál de las siguientes afirmaciones es falsa respecto a SAP HANA y la tecnología que utiliza?
+especifico,102,,¿Qué sistema gestor de bases de datos está soportado por SAP S/4HANA?
+especifico,103,,"En SAP S/4HANA, ¿Cómo se denomina el software que actúa como punto de acceso a los sistemas SAP a través de conexiones HTTP/S?"
+especifico,104,,"En SAP S/4HANA, ¿qué componente proporciona la interfaz de usuario basada en aplicaciones?"
+especifico,105,,¿Qué protocolo usa SAP Gateway para permitir consumir datos del sistema SAP S4/HANA?
+especifico,106,,¿Cuál es el tipo de sistema gestor base de datos nativo de SAP S/4HANA?
+especifico,107,,¿Qué es principalmente SAP S/4HANA?
+especifico,108,,¿Cuál de las siguientes NO es una opción de despliegue de SAP S/4HANA?
+especifico,109,,¿Cuál es la función de Fiori Launchpad en SAP S/4HANA?
+especifico,110,,¿Qué característica distingue a SAP HANA frente a bases de datos tradicionales?
+especifico,111,,¿Cuál es el propósito principal de SAP Vora dentro del ecosistema de análisis de datos en SAP S/4HANA?
+especifico,112,,¿Qué significa CDS en el contexto de SAP S/4HANA?
+especifico,113,,¿Cuál de las siguientes opciones describe correctamente el proceso de HANAtization durante una conversión a SAP S/4HANA?
+especifico,114,,¿Qué tecnología se usa en SAP Fiori para construir la mayoría de interfaces modernas?
+especifico,115,,"En S/4HANA, el concepto ‘embedded analytics’ se refiere a:"
+especifico,116,,¿Qué rol tiene ABAP en el ecosistema S/4HANA?
+especifico,117,,¿Cuál es una opción recomendada para extender S/4HANA minimizando modificaciones al core?
+especifico,118,,¿Qué simplificación del modelo de datos ofrece SAP S/4HANA en el área financiera?
+especifico,119,,¿Cuál de las siguientes opciones describe correctamente el conjunto completo de layers que conforman la arquitectura de Embedded Analytics en SAP S/4HANA?
+especifico,120,,¿Cuál de las siguientes afirmaciones describe correctamente el papel de SAP Leonardo dentro del ecosistema de SAP S/4HANA?
+especifico,121,,"En la metodología SCRUM, ¿Cuál de los siguientes roles busca aplicar las mejores prácticas y mejorar el trabajo en equipo?"
+especifico,122,,"En la metodología SCRUM, ¿Qué sentencia es errónea?"
+especifico,123,,¿Qué se entiende por épica en la metodología SCRUM?
+especifico,124,,"En la metodología SCRUM, ¿Cúal de las siguientes herramientas representa la evolución del trabajo durante un sprint?"
+especifico,125,,"En la metodología SCRUM, la lista de trabajos y tareas que van a desarrollarse en el transcurso del proyecto se conoce como:"
+especifico,126,,"En SCRUM, ¿Qué criterio se sigue para ordenarse los elementos primero?"
+especifico,127,,"En SCRUM, ¿Cuál es la responsabilidad del rol Tester?"
+especifico,128,,"En SCRUM, ¿Quién es el responsable de medir el rendimiento del proyecto?"
+especifico,129,,"En SCRUM, ¿Qué muestra un gráfico BurnDown?"
+especifico,130,,"En SCRUM, ¿Qué se hace durante una reunión de revisión del Sprint (Sprint review)?"
+especifico,131,,¿Qué es la metodología Agile?
+especifico,132,,¿Cuáles son los roles que intervienen en SCRUM?
+especifico,133,,¿Cuál de las siguientes preguntas NO es una de las tres que se formulan durante la reunión diaria de Scrum?
+especifico,134,,¿Cuál de las siguientes actividades de SCRUM tiene como objetivo permitir que el equipo inspeccione y adapte el proceso de desarrollo?
+especifico,135,,¿Cuál es una de las características más importantes de un proyecto que sigue las prácticas Agile?
+especifico,136,,¿Por cuántos principios está respaldado el Manifiesto Agil?
+especifico,137,,¿Cuál de los siguientes principios no corresponde al Manifiesto Agil?
+especifico,138,,¿Qué métrica ágil se suele usar para predecir la capacidad futura del equipo basada en el histórico?
+especifico,139,,¿Cuál es la duración típica recomendada de un Sprint en Scrum?
+especifico,140,,¿Cuándo es preferible utilizar la metodología en cascada (Waterfall) en lugar de un marco de trabajo ágil como Scrum?
+especifico,141,,¿Cuándo NO es adecuado utilizar metodologías ágiles?
+especifico,142,,¿Cuál de los siguientes NO es un principio explícito en Kanban?
+especifico,143,,"Durante la planificación del Sprint, ¿cuáles son las dos preguntas principales que se deben responder?"
+especifico,144,,"En Kanban, ¿qué práctica anima a los equipos a terminar las tareas que tienen entre manos, antes de comprometerse con otras nuevas?"
+especifico,145,,¿Cuál de las siguientes fases no es fundamental en la ingeniería del software?
+especifico,146,,"¿Cómo se denomina a los requisitos que capturan los servicios que el sistema debe proveer, cómo deberá reaccionar a entradas particulares y cómo deberá comportarse en situaciones específicas?"
+especifico,147,,¿Cuál de los siguientes NO es un tipo de diagrama en UML?
+especifico,148,,"¿Cómo se denomina al proceso de probar componentes del programa, como métodos o clases de objetos?"
+especifico,149,,¿Qué tipos de pruebas se incluyen dentro de las pruebas de desarrollo?
+especifico,150,,"Realizar cambios en el código de un programa sin alterar su comportamiento, se considera un mantenimiento"
+especifico,151,,¿Cuál de los siguientes es un orden correcto para especificar el ciclo de vida del desarrollo software?
+especifico,152,,"En el ámbito de la ingeniería software, se distinguen varios tipos de mantenimiento. ¿Cuál de los siguientes no es uno de ellos?"
+especifico,153,,"Durante el proceso de desarrollo de software, ¿En qué fase se generará el diagrama de secuencia de un caso de uso?"
+especifico,154,,"¿Cuál de los siguientes procesos, metodologías o frameworks establece cuatro fases (incepción o inicio, elaboración, construcción y transición) para dividir un proyecto en el tiempo?"
+especifico,155,,¿En qué fase del ciclo de vida del desarrollo de software se especifica cómo se va a desarrollar el sistema a implementar?
+especifico,156,,¿Cuál de los siguientes NO es uno de los modelos de creación de prototipos de software?
+especifico,157,,"En el modelo de ciclo de vida en espiral, ¿qué representa la dimensión angular en los ejes cartesianos?"
+especifico,158,,¿En qué fase del ciclo de vida del software se produce el documento de requisitos del software?
+especifico,159,,¿Qué es un SRD (Software Requirements Document) en el ciclo de vida del software?
+especifico,160,,"En el contexto de las fases del ciclo de vida del software, ¿qué documento suele tener la siguiente estructura: información sobre el problema detectado, descripción de la solución adoptada y modificaciones realizadas sobre el sistema?"
+especifico,161,,¿Cuáles son las fases del Proceso Unificado?
+especifico,162,,"En UML, ¿Qué diagrama se utiliza para modelar el modelo del dominio del sistema?"
+especifico,163,,¿Cuál de las siguientes NO es una prueba funcional?
+especifico,164,,¿Qué técnica de diseño reduce el acoplamiento y aumenta la cohesión?
+especifico,165,,¿Qué es una refactorización (refabricación)?
+especifico,166,,¿Qué técnica NO se utiliza en las pruebas de caja negra?
+especifico,167,,¿Qué técnica NO se utiliza en las pruebas de caja blanca?
+especifico,168,,¿Qué es la complejidad ciclomática de un programa?
+especifico,169,,¿Cuál de los siguientes no es un elemento en la definición de un proyecto?
+especifico,170,,"El método de estimación que se basa en la opinión de un grupo de cinco o seis expertos para llegar a un consenso de valores estimados, se conoce como:"
+especifico,171,,"En la planificación de un proyecto, selecciona cuál de los siguientes elementos no es clave para elaborar un calendario:"
+especifico,172,,¿En qué categoría de riesgo se encontraría clasificado el hecho de contar con unos requisitos vagos?
+especifico,173,,"En el seguimiento de un proyecto, la relación entre el valor ganado y el coste real, se denomina:"
+especifico,174,,Indica las 5 fases en las que se divide un proyecto en el ciclo de vida:
+especifico,175,,¿En qué fase del ciclo de vida de un proyecto se llevan a cabo las siguientes actividades: Elaborar el Acta de Constitución (Project Charter) e Identificar las partes interesadas (stakeholders)?
+especifico,176,,¿En qué fase del ciclo de vida de un proyecto se lleva a cabo la actividad de desarrollar el plan de dirección del proyecto?
+especifico,177,,"¿A qué término corresponde la siguiente definición? ""Relación entre la cantidad de tiempo que se requiere para realizar una tarea en función del número de personas que la van a trabajar"""
+especifico,178,,"En el contexto de la gestión de proyectos, ¿Qué significa EDT?"
+especifico,179,,¿En qué se diferencia el ciclo de vida de un proyecto del cronograma del mismo?
+especifico,180,,¿Cuál es el objetivo de la división del proyecto en etapas?
+especifico,181,,¿Qué es una etapa en el ciclo de vida de un proyecto?
+especifico,182,,¿En qué consiste la fase de Planificación en la gestión de proyectos?
+especifico,183,,"En la gestión de proyectos, ¿en qué fase se llevan a cabo las tareas planificadas para completar los entregables?"
+especifico,184,,¿Por qué es posible que las fases de gestión de proyectos se ejecuten ligeramente en paralelo?
+especifico,185,,¿Qué se utiliza para representar tareas a lo largo del tiempo y su calendario?
+especifico,186,,¿Qué restricción NO forma del análisis de viabilidad de un proyecto interno?
+especifico,187,,¿Qué técnica se utiliza específicamente para identificar la secuencia de actividades que determina la duración mínima de un proyecto?
+especifico,188,,¿Qué documentación NO se prepara en la fase de planificación del proyecto?
+especifico,189,,¿Cuál de estas técnicas NO se utiliza en el cálculo de un presupuesto?
+especifico,190,,¿Cuál es la unidad más baja de una EDT/WBS donde se puede estimar el costo y la duración?
+especifico,191,,¿Qué significa la matriz de responsabilidad RACI?
+especifico,192,,¿Cuál de las siguientes técnicas NO se utiliza para la detección de riesgos en un proyecto?
+especifico,193,,En ITIL la unidad organizativa que tiene recursos y medios propios y es responsable de producir un resultado es:
+especifico,194,,En ITIL la gestión de los servicios es:
+especifico,195,,"¿Dentro de la Estrategia de Servicios de ITIL, qué proceso de gestión es el responsable de generar el plan estratégico (o roadmap) que guía la dirección de TI?"
+especifico,196,,¿Cuál de los siguientes procesos no pertenece a la fase de diseño de servicios en ITIL?
+especifico,197,,"En ITIL, ¿qué proceso tiene por objetivo restaurar el servicio lo más rápido posible en el plazo establecido cuando un servicio se para o pierde calidad?"
+especifico,198,,"Los componentes principales del sistema de valor del servicio ITIL son: los principios rectores (guía), la gobernanza (dirección), la cadena de valor de los servic ios, las prácticas y la… (elige la opción correcta)"
+especifico,199,,"¿Qué elementos de ITIL crean la base para la cultura y el comportamiento de una organización, desde la toma de decisiones estratégicas hasta las operaciones cotidianas?"
+especifico,200,,¿Cuál de las siguientes opciones describe mejor un servicio en el marco de ITIL?
+especifico,201,,"En el marco de ITIL, ¿qué principio rector/director se ocupa principalmente de comprender quién es el consumidor del servicio y cuál es su necesidad?"
+especifico,202,,"En el marco de ITIL, ¿qué principio rector/director recomienda evaluar el estado actual y decidir qué se puede reutilizar?"
+especifico,203,,¿Cuál es el primer principio director de las buenas prácticas ITIL 4?
+especifico,204,,"El tercer principio de ITIL4, ""Implementar las buenas prácticas por iteraciones sucesivas"", indica que debe seguirse el método de 4 etapas ""plan, do, check, act"". A dicho método se le conoce como la rueda de:"
+especifico,205,,¿Cuál de los siguientes NO es un principio director de las buenas prácticas ITIL 4?
+especifico,206,,"¿Qué es lo primero que se debe hacer si un proceso, servicio, acción o indicador no proporciona valor según las buenas prácticas ITIL 4?"
+especifico,207,,¿Cuántos principios rectores (o directores) se definen oficialmente en las buenas prácticas de ITIL 4?
+especifico,208,,"¿Cuál es la recomendación fundamental del segundo principio rector de ITIL 4, denominado ""Empezar donde se está""?"
+especifico,209,,¿Cuál es la diferencia principal entre incidente y problema en ITIL?
+especifico,210,,"En ITIL 4, la “cadena de valor del servicio” incluye actividades como:"
+especifico,211,,"En ITIL, ¿Qué práctica se centra en reducir la probabilidad y el impacto de incidentes, identificando las causas reales y potenciales de los incidentes y gestionando soluciones alternativas y errores conocidos?"
+especifico,212,,¿Qué es un SLA en el contexto ITIL?
+especifico,213,,"¿Cuál es la premisa fundamental del quinto principio rector de ITIL 4, denominado ""Pensar y trabajar de manera integral""?"
+especifico,214,,"¿Cuál es el objetivo principal del principio ""Colaborar y promover la visibilidad""?"
+especifico,215,,¿En qué situación es más recomendable comenzar a utilizar el marco de referencia ITIL en una organización?
+especifico,216,,¿Qué es un flujo de valor en el contexto de ITIL 4?
+especifico,217,,"En el proceso KDD, ¿en qué et apa se aplican una serie de técnicas de preprocesado de datos?"
+especifico,218,,"En los sistemas OLAP, el operador drill-down consiste en:"
+especifico,219,,"Con respecto a business intelligence, indique la sentencia correcta:"
+especifico,220,,"Dentro de las tareas de data mining, ¿qué se entiende por clustering?"
+especifico,221,,"En Business Intelligence, ¿cuál de las siguientes técnicas de evaluación de modelos emplea la métrica conocida como MAE (mean absolute error)?"
+especifico,222,,¿A qué software se refiere la siguiente definición? Framework de programación basado en Java que soporta el procesamiento de grandes conjuntos de datos en un entorno informático distribuido
+especifico,223,,"En el contexto del tratamiento de datos para su análisis, ¿qué significan las siglas ETC?"
+especifico,224,,"En el área de la minería de datos, ¿qué significa KDD?"
+especifico,225,,"De las siguientes opciones, ¿cuál refleja mejor el contenido de un data warehouse?"
+especifico,226,,¿Qué es un cubo OLAP?
+especifico,227,,¿Cuál de estas arquitecturas NO corresponde a un sistema OLAP?
+especifico,228,,Una de las herramientas de código abierto más populares para la minería de datos es:
+especifico,229,,"En el contexto de la visualización de datos para “business analytics”, ¿qué es un mapa de calor?"
+especifico,230,,"El proceso que utiliza técnicas matemáticas, estadísticas y de Inteligencia Artificial para extraer datos, identificar información útil y conocimientos posteriores en forma de patrones, se denomina:"
+especifico,231,,¿Cuál de las siguientes afirmaciones refleja mejor la diferencia entre un Data Mart y un Data Warehouse?
+especifico,232,,¿Cuál de las siguientes afirmaciones describe mejor un Data Lake?
+especifico,233,,¿Cuál de las siguientes NO es una característica de un cartograma?
+especifico,234,,"En el aprendizaje por refuerzo, el agente aprende principalmente a través de:"
+especifico,235,,¿Cuál de l as siguientes afirmaciones describe correctamente la relación entre Deep Learning y Machine Learning?
+especifico,236,,¿Cuál de las siguientes afirmaciones describe mejor el Cognitive Computing?
+especifico,237,,¿Cuál de los siguientes NO es un componente típico de un sistema de Business Intelligence?
+especifico,238,,¿Cuál de las siguientes afirmaciones describe mejor la Web Mining?
+especifico,239,,¿Qué es la ciencia de datos?
+especifico,240,,"En función del origen y la forma en que se generan los datos, ¿cuáles son los dos principales modos de captura en los sistemas de información?"
+especifico,241,,"En caso de que se impugne un documento electrónico en el que se utilizó un servicio de confianza cualificado, y las comprobaciones realizadas arrojan un resultado negativo para quien impugnó, ¿qué consecuencia prevé la Ley?"
+especifico,242,,El plazo máximo para resolver el procedimiento de verificación previa de cumplimiento de requisitos para incluir a un prestador en la lista de confianza es de 6 meses. ¿Qué efecto produce el silencio administrativo transcurrido dicho plazo?
+especifico,243,,"Según la Ley 6/2020, ¿en qué supuesto queda exento de personación física el/la solicitante de un certificado cualificado?"
+especifico,244,,"Un prestador cualificado expide certificados de sello electrónico a personas jurídicas. Además de los datos habituales y datos que permitan identificar a la persona física a la que se entregaron dichos certificados, ¿qué información adicional debe registrar obligatoriamente?"
+especifico,245,,"Según la Ley 6/2020, ¿cuándo puede un prestador de servicios de confianza suspender la vigencia de un certificado electrónico, a diferencia de revocarlo?"
+especifico,246,,"Según la Ley 6/2020, de 11 de noviembre, reguladora de determinados aspectos de los servicios electrónicos de confianza, el periodo de vigen cia de los certificados cualificados no será superior a:"
+especifico,247,,"¿Qué propiedades garantiza la firma electrónica, adecuadamente implementada?"
+especifico,248,,"Según la Ley 6/2020, de 11 de noviembre, reguladora de determinados aspectos de los servicios electrónicos de confianza, los certificados de autenticación de sitio web expedidos a personas jurídicas consignan la identidad del titular utilizando:"
+especifico,249,,"Según la Ley 6/2020, de 11 de noviembre, reguladora de determinados aspectos de los servicios electrónicos de confianza, un prestador de servicios electrónicos de confianza tiene una de estas obligaciones:"
+especifico,250,,"Según la Ley 6/2020, de 11 de noviembre, reguladora de determinados aspectos de los servicios electrónicos de confianza, la expedición de certificados cualificados sin realizar todas las comprobaciones previas relativas a la identidad u otras circunstancias del titular es considerada una infracción:"
+especifico,251,,"¿Cuál de estas funciones no es ofrecida por los sistemas de correo electrónico seguro, como S/MIME o PGP?"
+especifico,252,,¿Qué requisito establece el Reglamento Europeo de Identificación Digital (eIDAS) para la firma electrónica avanzada?
+especifico,253,,"¿Qué es necesario para que una firma electrónica sea ""cualificada"" de acuerdo al reglamento eIDAS?"
+especifico,254,,"Con respecto a la autenticación de sitios web, el reglamento eIDAS:"
+especifico,255,,¿Cuál de estas opciones NO corresponde a un requisito de los certificados cualificados de firma electrónica?
+especifico,256,,"La definición ""datos en formato electrónico ajenos a otros datos en formato electrónico, o asociados de manera lógica con ellos, para garantizar el origen y la integridad de estos últimos"" corresponde a:"
+especifico,257,,¿Cuál de estas infracciones es considerada leve?
+especifico,258,,"Según la Ley 6/2020, ¿cuál es el período mínimo durante el cua l los prestadores cualificados deben conservar la información relativa a los servicios prestados?"
+especifico,259,,"Según la Ley 6/2020, ¿qué plazo máximo tiene la Administración para dictar y notificar resolución en el procedimiento de verificación previa para la cualificación de un prestador de servicios de confianza?"
+especifico,260,,"Según la Ley 6/2020, ¿qué cuantía mínima debe tener el seguro de responsabilidad civil de un prestador cualificado de servicios electrónicos de confianza?"
+especifico,261,,"Según la Ley 6/2020, ¿en qué plazo deben los prestadores de servicios de confianza no cualificados comunicar al Ministerio competente el inicio de su actividad?"
+especifico,262,,"Según la Ley 6/2020, ¿qué órgano ejerce la función de supervisión y control de los prestadores de servicios electrónicos de confianza en España?"
+especifico,263,,"Según la Ley 6/2020, ¿qué sucede si un prestador cualificado no remite el informe de evaluación de la conformidad en los términos previstos por el Reglamento (UE) 910/2014?"
+especifico,264,,"Según la Ley 6/2020, cuando en un certificado cualificado se consigne un pseudónimo en lugar del nombre real del/la titular:"
+especifico,265,,"Indique cuál de los siguientes es un derecho del/la interesado/a, según el reglamento europeo de protección de datos."
+especifico,266,,"Según el reglamento europeo de protección de datos, indique cuál de los siguientes NO se considera dentro de las categorías especiales de datos personales."
+especifico,267,,"El tratamiento de datos personales de manera tal que ya no puedan atribuirse a un/a interesado/a sin utilizar información adicional, siempre que dicha información adicional figure por separado y esté sujeta a medidas técnicas y organizativas destinadas a garantizar que los datos personales no se atribuyan a una persona física identificada o identificable, en el reglamento europeo de protección de datos se entiende por:"
+especifico,268,,¿Por quién estará compuesto el comité europeo de protección de datos?
+especifico,269,,"¿A cuánto puede ascender cómo máximo las sanciones que impone el reglamento europeo de protección de datos, cuando se comete una infracción?"
+especifico,270,,"Según la legislación actual sobre protección de datos, una persona tiene derecho a no aportar documentos que ya se encuentren en poder de la administración actuante o hayan sido elaborados por cualquier otra administración. La administración actuante podrá consultar o recabar dichos documentos salvo que la persona interesada se opusiera a ello. Además, (seleccione la opción más adecuada):"
+especifico,271,,El artículo 9 de la Ley Orgánica 3/2018 sobre protección de datos establece como categorías especiales algunos datos personales. ¿Cuál de los siguientes no está considerado como especial?
+especifico,272,,"Según el artículo 5 de la Ley Orgánica 3/2018 sobre protección de datos, los responsables y encargados del tratamiento de datos, así como todas las personas que intervengan en cualquier fase de este, estarán sujetas al deber de confidencialidad. Este deber de confidencialidad, ¿hasta cuándo se mantendrá?"
+especifico,273,,"La Ley Orgánica 3/2018, aprobada por las Cortes Generales de España que tiene por objeto adaptar el derecho interno español al Reglamento General de Protección de Datos ¿cuál de estos acrónimos tiene?"
+especifico,274,,¿Debe publicar la Administración de la Comunidad Autónoma del País Vasco un inventario de sus actividades de tratamiento de datos personales?
+especifico,275,,"En el marco de la Ley Orgánica 3/2018, de 5 de diciembre ¿a partir de qué edad puede un menor de edad dar su consentimiento para el tratamiento de sus datos personales?"
+especifico,276,,"En el marco de la Ley Orgánica 3/2018, de 5 de diciembre, ¿qué categoría de datos no puede ser tratada basándose solo en el consentimiento de la persona afectada para evitar situaciones discriminatorias?"
+especifico,277,,"En el marco de la Ley Orgánica 3/2018, de 5 de diciembre, ¿cuál de las siguientes afirmaciones sobre el tratamiento de datos personales relativos a condenas e infracciones penales es verdadera?"
+especifico,278,,"En el marco de la Ley Orgánica 3/2018, de 5 de diciembre, ¿cuándo puede llevarse a cabo el registro completo de los datos referidos a condenas e infracciones penales?"
+especifico,279,,"En el marco de la Ley Orgánica 3/2018, de 5 de diciembre, ¿cuándo debe informarse a la persona afectada sobre su derecho a oponerse a la adopción de decisiones individuales automatizadas que produzcan efectos jurídicos sobre él o le afecten significativamente de modo similar?"
+especifico,280,,"Según la Ley Orgánica 3/2018, ¿cuál es la obligación del responsable del tratamiento respecto a los datos personales de las personas empleadas de una empresa?"
+especifico,281,,"¿Qué principio establece que los datos personales deben ser exactos y, si es necesario, actualizados?"
+especifico,282,,¿Cuál de los siguientes NO es un derecho de las personas interesadas según la Ley Orgánica 3/2018?
+especifico,283,,"Según la Ley Orgánica 3/2018, ¿quién es responsable del cumplimiento del tratamiento de datos personales en una empresa?"
+especifico,284,,"¿Qué obligación tienen, según la Ley Orgánica 3/2018, los encargados del tratamiento respecto a las instrucciones del responsable?"
+especifico,285,,"Según la Ley Orgánica 3/2018, ¿qué medida debe adoptar un/a responsable para garantizar la seguridad de los datos personales?"
+especifico,286,,"Según la Ley Orgánica 3/2018, ¿cuál es la autoridad competente para supervisar el cumplimiento de la normativa de protección de datos en España?"
+especifico,287,,"Según el artículo 9 del ENS (Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad), ¿qué tipo de medidas deben constituir las líneas de defensa en un sistema de información?"
+especifico,288,,"Según el ENS, ¿qué permite la vigilancia continua?"
+especifico,289,,"Según el ENS, en la organización e implantación del proceso de seguridad el Responsable del Servicio debe determinar:"
+especifico,290,,"Según el ENS, ¿con qué frecuencia mínima deben realizarse auditorías de seguridad regulares ordinarias en los sistemas de información?"
+especifico,291,,El ENS está constituido por principios básicos y requisitos mínimos para garantizar la protección adecuada de la información. ¿Cuál de las siguientes dimensiones de seguridad NO está explícitamente mencionada en dicho artículo?
+especifico,292,,"En virtud del artículo 2.3 del Real Decreto 311/2022, las entidades del sector privado que presten servicios al sector público también quedan sujetas al ENS. ¿Qué obligación específica se extiende además a la cadena de suministro de dichos contratistas?"
+especifico,293,,"Conforme al artículo 28 del Real Decreto 311/2022, las medidas de seguridad del Anexo II podrán ser sustituidas por otras compensatorias. ¿Qué condición exige expresamente el precepto para que dicha sustitución sea válida?"
+especifico,294,,El artículo 30 del Real Decreto 311/2022 introduce el concepto de «perfil de cumplimiento específico». ¿Qué organismo tiene competencia para aprobar dichos perfiles según el real decreto?
+especifico,295,,"Según el artículo 31 del Real Decreto 311/2022, las entidades del sector público incluidas en el ámbito del ENS deben someterse a auditorías de seguridad periódicas. ¿Cuál es la periodicidad ordinaria máxima establecida para dichas auditorías?"
+especifico,296,,El artículo 40 del Real Decreto 311/2022 define las categorías de seguridad de los sistemas de información. ¿Qué determina la categoría de seguridad de un sistema conforme al Anexo I?
+especifico,297,,La disposición transitoria única establece un plazo para que los sistemas de información preexistentes a la entrada en vigor del RD 311/2022 alcancen su plena adecuación al ENS. ¿Cuál es ese plazo?
+especifico,298,,"Respecto a los incidentes de seguridad, los artículos 33 y 34 del RD 311/2022 regulan la capacidad de respuesta. ¿A qué entidades se extiende la prestación de servicios de respuesta a incidentes prevista en el artículo 34?"
+especifico,299,,"Conforme a la disposición adicional segunda del artículo 34 del Real Decreto 311/2022, ¿qué tipo de carácter tienen las instrucciones técnicas de seguridad reguladas en dicho precepto?"
+especifico,300,,"El artículo 3 del RD 311/2022 establece la relación entre el ENS y la normativa de protección de datos personales. Cuando un sistema de información trata datos personales, ¿qué obligación específica recae sobre la persona responsable o encargada del tratamiento además del cumplimiento del ENS?"
+especifico,301,,"El preámbulo del RD 311/2022 indica que las entidades del sector público que desplieguen redes 5G deben aplicar, además del ENS, otra norma específica. ¿A qué artículo de qué norma se refiere expresamente?"
+especifico,302,,"El artículo 12 del Real Decreto 311/2022 regula la política de seguridad de las entidades del sector público. En el caso de las entidades del sector privado que presten servicios al sector público, ¿quién debe aprobar dicha política?"
+especifico,303,,"Según el artículo 6 del Real Decreto 311/2022, el principio de «seguridad integral» implica que la seguridad se aborda desde una perspectiva global. ¿Qué elemento resulta esencial para este principio según el precepto?"
+especifico,304,,El artículo 11 del Real Decreto 311/2022 recoge el principio de «diferenciación de responsabilidades». ¿Cuál de las siguientes afirmaciones describe mejor su contenido?
+especifico,305,,"El artículo 32 del Real Decreto 311/2022 regula el informe del estado de la seguridad. ¿Qué órgano tiene encomendado, según dicho artículo, recopilar la información necesaria para elaborar dicho informe con carácter general?"
+especifico,306,,"Conforme al artículo 35 del Real Decreto 311/2022, la «conformidad con el ENS» en el ámbito de la Administración Digital implica que los sistemas de información deben alcanzar y mantener la conformidad. ¿Cómo se acredita dicha conformidad para los sistemas de categoría ALTA?"
+especifico,307,,El artículo 39 del Real Decreto 311/2022 establece la obligación de «actualización permanente» del ENS. ¿Cuál de los siguientes factores NO figura expresamente en dicho artículo como motivo que obliga a esa actualización?
+especifico,308,,El Anexo II del Real Decreto 311/2022 estructura las medidas de seguridad en tres grupos. ¿Cuál es la denominación correcta de los tres grupos y su descripción funcional según el real decreto?
+especifico,309,,El artículo 29 del Real Decreto 311/2022 promueve el uso de infraestructuras y servicios comunes de las administraciones públicas. ¿Cuál es la finalidad principal que persigue expresamente este artículo?
+especifico,310,,El algoritmo de cifrado DES (Data Encryption Standard) es un algoritmo de:
+especifico,311,,¿Cuál de los siguientes es un algoritmo de cifrado de clave pública?
+especifico,312,,¿Cuál de los siguientes es un estándar UIT -T aplicado en el marco del modelo PKI (Public Key Infrastructure)?
+especifico,313,,¿Cómo se define una PKI (Public Key Infrastructure)?
+especifico,314,,¿Cuál de los siguientes no es un algoritmo hash utilizado en criptografía?
+especifico,315,,¿Cuál de las siguientes afirmaciones sobre el funcionamiento de HTTPS es CIERTA?
+especifico,316,,¿Qué tipo de algoritmo es SHA-2?
+especifico,317,,¿Cuál de estos sistemas usa criptografía para incorporar seguridad en la capa 3 de la arquitectura TCP/IP?
+especifico,318,,¿Qué contiene el chip criptográfico incorporado en el DNIe?
+especifico,319,,¿Cuál es la principal ventaja de la criptografía simétrica frente a la asimétrica?
+especifico,320,,"En un sistema de criptografía de clave pública, la confidencialidad se garantiza cuando el mensaje se cifra con:"
+especifico,321,,¿Cuál es la función principal de una función hash criptográfica?
+especifico,322,,Una función hash criptográfica segura debe cumplir principalmente:
+especifico,323,,"En una firma digital basada en criptografía asimétrica, el emisor firma un documento utilizando:"
+especifico,324,,El objetivo principal del servicio de no repudio es:
+especifico,325,,¿Qué entidad dentro de una PKI es responsable de emitir certificados digitales?
+especifico,326,,Un certificado digital X.509 contiene principalmente:
+especifico,327,,"En el protocolo TLS, la criptografía asimétrica se utiliza principalmente para:"
+especifico,328,,¿Qué propiedad garantiza que un mensaje no ha sido alterado durante la transmisión?
+especifico,329,,"En IPSec, el protocolo AH (Authentication Header) proporciona principalmente:"
+especifico,330,,¿Cuál es el propósito del intercambio de claves Diffie-Hellman?
+especifico,331,,¿Qué diferencia fundamental existe entre autenticación y autorización?
+especifico,332,,¿Cuál de los siguientes algoritmos es de cifrado simétrico?
+especifico,333,,"En una firma digital, el hash del documento se cifra para:"
+especifico,334,,"En seguridad informática, ¿cuál de las siguientes sentencias es errónea respecto a los requisitos que deben cumplir las políticas de seguridad de una organización?"
+especifico,335,,El nivel RAID 6 proporciona:
+especifico,336,,"En la implantación de un Sistema de Gestión de Seguridad de la Información (SGSI), ¿en qué etapa se crea el comité de seguridad?"
+especifico,337,,"En seguridad informática, la realización de copias de seguridad se considera una medida:"
+especifico,338,,¿Cuáles son los tres principios fundamentales de la seguridad de la información en la nube?
+especifico,339,,¿Cuál de los siguientes no es un principio fundamental de la seguridad de la información?
+especifico,340,,"Para cumplir los objetivos principales de seguridad informática, una organización debe contemplar cuatro planos de actuación:"
+especifico,341,,¿A qué servicio de seguridad corresponde la definición: “Garantiza que cada mensaje transmitido o almacenado solo pueda ser leído por su legítimo/a destinatario/a”?
+especifico,342,,¿Qué servicio de seguridad garantiza que la identidad del creador de un mensaje es legítima?
+especifico,343,,El principio consistente en implantar varios niveles de seguridad dentro de un sistema se denomina:
+especifico,344,,¿Es posible reducir el riesgo de un sistema hasta riesgo cero?
+especifico,345,,¿Cuál de las siguientes medidas se considera un control de seguridad organizativo?
+especifico,346,,¿Cuál de las siguientes razones justifica la implantación de estándares de seguridad?
+especifico,347,,¿Qué agencia europea se encarga de la seguridad de redes y sistemas de información?
+especifico,348,,Una declaración de intenciones que establece las bases de la seguridad y delimita responsabilidades se denomina:
+especifico,349,,"Desde el punto de vista de la seguridad física, en un edificio deben definirse:"
+especifico,350,,¿Qué nivel RAID ofrece acceso paralelo con un disco dedicado a paridad?
+especifico,351,,El Plan de Continuidad de Negocio (BCP) tiene como objetivo principal:
+especifico,352,,¿Qué concepto describe la capacidad de un sistema para seguir funcionando ante fallos o incidentes graves?
+especifico,353,,La auditoría de seguridad en una organización tiene como finalidad principal:
+especifico,354,,¿Qué documento describe las accion es concretas a seguir ante un incidente de seguridad?
+especifico,355,,El principio de mínimo privilegio establece que:
+especifico,356,,"En la gestión de riesgos, el riesgo se define habitualmente como:"
+especifico,357,,¿Cuál es el objetivo principal de un análisis de riesgos en seguridad informática?
+especifico,358,,¿Cuál de las siguientes afirmaciones es FALSA respecto a SOA?
+especifico,359,,¿Cuál de las siguientes afirmaciones contradice los principios básicos a seguir a la hora de implantar una estrategia SOA?
+especifico,360,,A la hora de implantar SOA es conveniente:
+especifico,361,,¿Cuál de las siguientes tareas NO corresponde a la gobernanza en SOA?
+especifico,362,,"A la hora de implantar SOA, el establecimiento de las especificaciones en materia de seguridad en el intercambio de información en el mapa de sistemas se definen desde:"
+especifico,363,,¿Cuál de las siguientes afirmaciones es FALSA respecto al catálogo de servicios en una estrategia SOA?
+especifico,364,,En una estrategia SOA el producto más tangible de la implementación es:
+especifico,365,,"¿Cuál de los siguientes es un conocido servidor para el registro y localización de microservicios, balanceo de carga y tolerancia a fallos desarrollado por Netflix?"
+especifico,366,,¿Cuál de los siguientes NO es un método HTTP?
+especifico,367,,"En el área de microservicios, se usan comúnmente APIs REST. ¿Qué significa REST?"
+especifico,368,,"En una arquitectura de microservicios, ¿cuál es una de las ventajas del escalado por partición de datos?"
+especifico,369,,"Cuando se estructura un servicio global en microservicios, en lo que se refiere al despliegue de nuevas versiones, ¿qué afirmación es correcta?"
+especifico,370,,¿Cuál es una de las características básicas de una arquitectura de microservicios?
+especifico,371,,¿Qué significa que los microservicios están débilmente acoplados?
+especifico,372,,¿Cuál de los siguientes patrones se utiliza para evitar que un fallo en un microservicio colapse toda la cadena de llamadas?
+especifico,373,,¿Cuál de las siguientes afirmaciones des cribe mejor el patrón API Gateway en una arquitectura de microservicios?
+especifico,374,,¿Cuál de las siguientes afirmaciones es FALSA respecto a la comunicación entre microservicios?
+especifico,375,,¿Cuál de los siguientes NO es un beneficio del uso de contenedores Docker en una arquitectura de microservicios?
+especifico,376,,¿Cuál de los siguientes enfoques es el más adecuado para gestionar transacciones que abarcan múltiples microservicios?
+especifico,377,,¿Qué problema principal introduce el uso de un registro de servicios como Eureka en una arquitectura de microservicios?
+especifico,378,,"¿Cuál de las siguientes afirmaciones describe mejor el concepto de ""bounded context"" en el diseño de microservicios?"
+especifico,379,,¿Cuál de los siguientes es un inconveniente real de las arquitecturas de microservicios frente a las monolíticas?
+especifico,380,,¿Cuál de las siguientes afirmaciones describe correctamente la diferencia entre orquestación y coreografía en microservicios?
+especifico,381,,¿Qué modelo de despliegue en la nube ofrece al usuario capacidad para ejecutar software específico que puede incluir sistemas operativos y aplicaciones?
+especifico,382,,¿Cuál de las siguientes afirmaciones es FALSA respecto a los beneficios de la computación en la nube?
+especifico,383,,¿Cuál de las siguientes afirmaciones es FALSA respecto a los modos de despliegue de computación en la nube?
+especifico,384,,"En la computación en la nube, Google Drive es un ejemplo del modelo de servicio:"
+especifico,385,,"A la hora de considerar la seguridad en computación en la nube, un evento o actividad que tiene el potencial de producir daño a los sistemas de información o a las redes se considera:"
+especifico,386,,"En la estrategia de seguridad respecto al BYOD (bring your own device), el enfoque de virtualización:"
+especifico,387,,¿Qué modelo de despliegue en la nube ofrece al usuario control sobre la aplicación aunque no de toda la infraestructura subyacente?
+especifico,388,,Si quisiera utilizar servicios interactivos o de tiempo real ¿cuál sería la técnica de conmutación que elegiría en base a su menor latencia?
+especifico,389,,"¿A qué término corresponde la siguiente definición: ""Proyecto de código abierto que automatiza el despliegue de aplicaciones den tro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones""?"
+especifico,390,,¿Qué códigos de estado HTTP corresponden a una redirección?
+especifico,391,,¿Qué es Docker Compose?
+especifico,392,,Los proveedores cloud ofrecen soluciones orientadas a:
+especifico,393,,¿Cuál de los siguientes es un software de virtualización?
+especifico,394,,Gmail puede utilizarse para la gestión personalizada del correo electrónico de una organización. ¿De qué tipo de servicio en la nube estamos hablando?
+especifico,395,,¿Cuál de estas afirmaciones sobre la computación cloud es FALSA?
+especifico,396,,"¿Qué intenta garantizar un acceso web mediante HTTPS, frente a un acceso HTTP?"
+especifico,397,,¿Cuál de estas características NO se corresponde a lo que entendemos por computación en la nube?
+especifico,398,,¿Cuál o cuáles de estas técnicas requieren la modificación del sistema operativo cliente que se ejecuta en una máquina virtual?
+especifico,399,,Las funciones fundamentales para conseguir una computación segura en la nube son:
+especifico,400,,Los principales beneficios de la computación en la nube para las empresas NO incluyen:
+especifico,401,,¿Cuál de las siguientes afirmaciones sobre microservicios es correcta?
+especifico,402,,¿Cuál es la principal ventaja de utilizar contenedores frente a máquinas virtuales en entornos cloud?
+especifico,403,,¿Cuál de los siguientes mecanismos se utiliza en la nube para garantizar alta disponibilidad y tolerancia a fallos?
+especifico,404,,¿Qué característica define mejor la elasticidad en la nube?
+especifico,405,,"En el modelo IaaS, ¿qué controla el usuario y qué gestiona el proveedor?"
+especifico,406,,¿Cuál es una de las funciones principales de un sistema IDS (Intrusion Detection System)?
+especifico,407,,"En la gestión de la seguridad informática, ¿qué aspecto es fundamental para permitir la integración y comunicación entre distintos sistemas y proveedores?:"
+especifico,408,,"Con respecto a los pasos a seguir en un ciberataque, indique la respuesta correcta:"
+especifico,409,,"En las etapas en la gestión de la ciberseguridad, el control de accesos y gestión de identidades quedaría enmarcado en la etapa de:"
+especifico,410,,Uno de los siguientes NO es un tipo de sistema anti-intrusión. ¿Cuál?
+especifico,411,,Un Centro de Operaciones de Ciberseguridad ofrece los siguientes servicios:
+especifico,412,,¿Cuál de estos protocolos de seguridad para Wi-Fi requiere el uso de un servidor de autenticación (como RADIUS)?
+especifico,413,,¿Cuáles son los tres objetivos primordiales de la ciberseguridad?
+especifico,414,,¿Cuál de estos métodos ayuda a preservar la confidencialidad de la información?
+especifico,415,,¿Cuál de estos mecanismos NO está específicamente diseñado para preservar la disponibilidad de los sistemas informáticos?
+especifico,416,,"Un ataque consistente en entregar una dirección IP falsa cuando se procesa una solicitud de resolución de un nombre, se denomina:"
+especifico,417,,¿Qué técnica se utiliza para detectar intrusiones mediante comparación de patrones conocidos de ataques?
+especifico,418,,¿Qué tipo de malware se oculta dentro de programas legítimos y se ejecuta sin que el usuario lo note?
+especifico,419,,"En la seguridad de redes, ¿qué función cumple un firewall?"
+especifico,420,,¿Cuál de los siguientes ataques explota vulnerabilidades en aplicaciones web para insertar código malicioso en un navegador?
+especifico,421,,¿Cuál de los siguientes ataques se basa en saturar un sistema con tráfico para interrumpir su disponibilidad?
+especifico,422,,¿Qué tipo de ataque engaña a las personas usuarias para que revelen información confidencial mediante correos o sitios falsos?
+especifico,423,,¿Qué técnica se utiliza para proteger datos sensibles al transformarlos en un formato ilegible sin la clave correcta?
+especifico,424,,¿Qué tipo de malware se propaga automáticamente entre sistemas sin intervención de la persona usuaria?
+especifico,425,,¿Cuál de los siguientes mecanismos ayuda a mantener la confidencialidad de los datos?
+especifico,426,,¿Qué tipo de malware se instala de manera oculta y permite al atacante tomar control completo del sistema?
+especifico,427,,¿Qué ataque aprovecha vulnerabilidades en la configuración de routers o switches para interceptar tráfico interno de la red?
+especifico,428,,"Dentro del Big Data, ¿cuál de los siguientes rasgos NO está incluido en lo que se conoce como las tres uves?"
+especifico,429,,"En la jerarquía del conocimiento, ¿qué elementos ocupan la base y la cúspide respectivamente?"
+especifico,430,,"En la arquitectura funcional de un sistema de big data, ¿en qué capa están los datos descritos en todas sus dimensiones?"
+especifico,431,,"En la gestión de los datos, ¿cuál de las siguientes sentencias es verdadera?"
+especifico,432,,Indique la sentencia correcta con respecto a las implementaciones de un sistema olap en un data warehouse.
+especifico,433,,¿Cuál de estos sistemas de almacenami ento distribuido ha sido diseñado específicamente para el almacenamiento fiable de macrodatos (Big Data)?
+especifico,434,,"Cuando hablamos de Big Data nos referimos a conjuntos de datos cuyas características dificultan su captura, gestión, procesamiento o análisis mediante tecnologías y herramientas convencionales. ¿De qué características hablamos?"
+especifico,435,,¿Cuál de los siguientes es un sistema almacenamiento para Big Data que permite su gestión mediante un lenguaje basado en SQL?
+especifico,436,,"Dentro del ecosistema Apache Hadoop, ¿qué es Pig?"
+especifico,437,,"En el ciclo de vida de la analítica de datos, el responsable de construir y refinar modelos analíticos es:"
+especifico,438,,"En el ecosistema Hadoop, ¿qué es HBase?"
+especifico,439,,Las arquitecturas para procesamiento big data incluyen soluciones de estos tipos:
+especifico,440,,"En el ecosistema Hadoop, una de estas herramientas está diseñada para analizar grandes conjuntos de datos usando SQL:"
+especifico,441,,¿Cuál de los siguientes NO es un nivel del Índice de Madurez de los Modelos de Negocio de los Big Data?
+especifico,442,,¿Cuál NO forma parte del ciclo vital de la analítica de datos?
+especifico,443,,El concepto de “la muerte del porqué” hace referencia a:
+especifico,444,,¿Cuál es uno de los cuatro factores motrices del valor de los Big Data?
+especifico,445,,Hadoop MapReduce se utiliza principalmente para:
+especifico,446,,La federación de datos se basa en la idea de que:
+especifico,447,,El mantenimiento predictivo es un ejemplo de:
+especifico,448,,El principal desafío de introducir Big Data en un entorno tradicional de data warehouse es:
+especifico,449,,El enriquecimiento de datos en arquitectura Big Data consiste en:
+especifico,450,,Un error común en toma de decisiones basada en datos es:
+especifico,451,,"Según el diagrama E/R anterior, ¿cuál de las siguientes afirmaciones es correcta?"
+especifico,452,,"Según el diagrama E/R anterior, ¿cuál de las siguientes afirmaciones es correcta?"
+especifico,453,,"Realizando pruebas sobre el servicio web de disponibilidad de agenda, una persona usuaria ha recibido el siguiente error “HTTP Status Code:500”. ¿A qué se debe un código de error de estado 500 en el protocolo HTTP?"
+especifico,454,,"Se quiere implementar un nuevo microservicio que permita al personal facultativo guardar en el sistema OsaNet comentarios médicos obtenidos tras una consulta. Estos comentarios pasarán a formar parte del historial médico de la persona paciente. Por ejemplo, ""La persona paciente XXXX indica dolores continuos en la zona abdominal. Se ha solicitado para esta persona la realización de análisis de heces y sangre."". Esta información es confidencial. ¿Qué verbo o método de consulta HTTP es necesario usar para transmitir este tipo de información de la forma más segura posible?"
+especifico,455,,"Se está considerando añadir un campo contraseña en la tabla Doctor del esquema E/R presentado en el enunciado. Por cuestiones de seguridad no se quiere guardar la contraseña en claro. En su lugar se ha decidido guardar un hash (resumen criptográfico). En cuanto a su nivel de seguridad, ¿cuál de las siguientes funciones hash es más robusta?"
+especifico,456,,"Para gestionar el proyecto usando el framework Scrum, el equipo del proyecto OsaNet ha generado, entre otros artefactos, un backlog de producto y un backlog de sprint. ¿Cuáles son las definiciones correctas y qué rol de Scrum gestiona dichos artefactos?"
+especifico,457,,Siguiendo el framework Scrum el Equipo de Desarrollo de OsaNet se reúne cada mañana para celebrar la reunión diaria de Scrum (el Daily Scrum). ¿A qué tres preguntas clave debe responder cada miembro del equipo?
+especifico,458,,"Se quiere lanzar una consulta HTTP para conocer la disponibilidad de un/a doctor/a. Si el dominio (ficticio) del servicio es intranet.osanet.eus, ¿cuál de las siguientes peticiones GET con parámetros es sintácticamente correcta?"
+especifico,459,,"La tabla Cita tiene una clave primaria “id”. ¿Qué ventaja presenta respecto a usar una clave primaria compuesta (doctor/a, paciente, fecha)?"
+especifico,460,,El microservicio de disponibilidad devuelve información sobre las horas libres de un/a doctor/a. ¿Qué característica debe tener esa operación para evitar efectos secundarios?
+especifico,461,,"Si una persona paciente se elimina pero mantiene citas activas, ¿qué debe hacer la base de datos al intentar borrar su registro?"
+especifico,462,,El microservicio de disponibilidad usa HTTPS. ¿Qué ocurriría si un atacante intentara interceptar la comunicación?
+especifico,463,,"En Abbott, “el sistema OsaNet quiere mejorar su proceso de gestión” debe interpretarse como:"
+especifico,464,,Abbott sugiere que sinónimos como “doctor/a” y “facultativo/a” deben:
+especifico,465,,"En el E/R, la entidad Cita tiene claves extranjeras a Paciente y Doctor/a. En Orientación a Objetos esto se traduce en:"
+especifico,466,,La relación 1:N entre Paciente y Cita se convierte en Orientación a Objetos en:
+especifico,467,,"Si en E/R existe una relación Doctor–Paciente solo a través de Cita, en Orientación a Objetos:"
+especifico,468,,"En un diagrama de casos de uso, la comunicación entre Doctor y “Programar cita” se representa como:"
+especifico,469,,¿En cuál de los siguientes casos es apropiado modelar un caso de uso “extends” en el sistema OsaNet?
+especifico,470,,"Para validar que OsaNet funciona tras introducir nuevas funcionalidades en la intranet, se deben ejecutar:"
+especifico,471,,El microservicio consultar Citas devuelve JSON corrupto. Quieres probar que el sistema de citas lo maneja correctamente. ¿Qué tipo de prueba haces?
+especifico,472,,"En una prueba funcional, simulas que el/la doctor/a intenta crear una cita con una fecha anterior al día actual. ¿Qué tipo de prueba es?"
+especifico,473,,¿Qué tipo de cobertura utilizar para comprobar que todas las rutas del método consultarCitas() de la clase Paciente se ejecutan?
+especifico,474,,"OsaNet quiere registrar “PacienteAdulto” y “PacienteMenor”, donde los/las menores requieren autorización de tutor/a, pero ambos comparten datos personales y tarjeta sanitaria. ¿Qué diseño OO es adecuado?"
+especifico,475,,"En OsaNet se desea diferenciar entre dos tipos de doctores/as: doctores/as de atención primaria y doctores/as especialistas. Ambos comparten los mismos datos básicos (nombre, DNI, número de colegiado/a), pero cada tipo añade atributos propios. ¿Cuál sería la solución OO más adecuada?"
+especifico,476,,¿Qué ventajas tiene el modo de emisión de certificados 1 (simplificado) con respecto al 2 (avanzado)?
+especifico,477,,"¿Qué inconvenientes tiene el modo de emisión de certificados 1 (simplificado), con respecto al 2 (avanzado)?"
+especifico,478,,¿Cuál de estos protocolos permite la verificación online de la validez de un certificado digital ante la entidad emisora?
+especifico,479,,"En el proceso de firma digital de un documento PDF mediante herramientas como Autofirma o Adobe Acrobat, ¿cuál de las siguientes afirmaciones es CORRECTA?"
+especifico,480,,"Una persona usuaria firma un documento digital utilizando su certificado, pero su clave privada ha sido comprometida sin que él lo sepa. ¿Cuál es la consecuencia principal?"
+especifico,481,,¿Cuál de las siguientes condiciones es necesaria para que un/a receptor/a pueda verificar correctamente una firma digital?
+especifico,482,,"Definimos como ""usuario/a corporativo"" a un/a usuario/a de nuestra organización sanitaria, que utiliza un PC corporativo. Definimos como ""usuario/a externo"" a un/a usuario/a de fuera de nuestra organización que utiliza un PC no corporativo. ¿Cuál de estos escenarios es válido, asumiendo que todos los certificados son válidos, cuando haya un intento de acceso desde un navegador a un servidor web de nuestra organización sanitaria?"
+especifico,483,,"Actualizamos nuestro servicio ""portal del paciente"". El acceso sigue siendo HTTPS, pero se requiere autenticación de los clientes. ¿Cuál de estas alternativas es la correcta? Suponemos que el servidor tiene instalados los certificados de nuestra AC, así como de todas las AC con reconocimiento oficial."
+especifico,484,,"Un/a usuario/a externo/a accede con frecuencia a los servidores de nuestra organización sanitaria. Tiene ya instalado en su PC un certificado de ciudadano emitido por la FNMT (Fábrica N acional de Moneda y Timbre). Sin embargo, cada vez que accede a nuestros servidores, recibe un aviso en el navegador. ¿Qué tiene que hacer para evitar el aviso?"
+especifico,485,,La clave privada no deja de ser un archivo que su poseedor usa en diferentes operaciones criptográficas. Identifica cuál de estas afirmaciones es correcta:
+especifico,486,,"Identifica cuál de estas afirmaciones sobre firma digital es CIERTA . Sea ""D"" el documento a firmar. H=hash(D) su resumen digital."
+especifico,487,,"En el contexto de la comunicación con el servicio https://imagenes.os.org utilizando un sistema NGINX SSL Termination, identifica ¿cuál de estas afirmaciones es FALSA?"
+especifico,488,,"En el contexto del servicio https://imagenes.os.org con NGINX SSL Termination, ¿qué función realiza el equilibrador de carga?"
+especifico,489,,Un/a usuario/a corporativo/a accede al servicio web y observa que el certificado del servidor ha expirado. ¿Qué ocurrirá?
+especifico,490,,¿Cuál es una ventaja de utilizar HTTPS en los servicios web de la organización sanitaria?
+especifico,491,,"En el contexto de usar los servicios de nuestra PKI para conseguir que la comunicación de/con los dispositivos IoT de nuestra organización sanitaria sea segura, identifica ¿cuál de estas afirmaciones es FALSA?"
+especifico,492,,"En el contexto de dispositivos IoT que utilizan certificados digitales para comunicarse mediante TLS, ¿cuál de las siguientes afirmaciones es CORRECTA?"
+especifico,493,,"Dado que los dispositivos IoT pueden ser numerosos y de difícil acceso físico, ¿cuál es una práctica adecuada en la gestión de sus certificados?"
+especifico,494,,¿Qué problema de seguridad puede surgir si un dispositivo IoT utiliza siempre el mismo certificado sin renovación?
+especifico,495,,"Señala la afirmación FALSA si decidiéramos implementar un sistema federado sobre esta arquitectura,"
+especifico,496,,¿Qué tipo de datos podríamos encontrarnos en este sistema?
+especifico,497,,¿Qué tipo de procesamiento de datos sería más adecuado para los datos generados por un dispositivo IoT?
+especifico,498,,"Si decidiéramos migrar el sistema descrito a la nube,"
+especifico,499,,Un ejemplo de aplicación Big Data con objetivo de mantenimiento predictivo podría consistir en
+especifico,500,,¿Cuál de estos sistemas podría ser adecuado para el almacenamiento de los datos generados por los dispositivos IoT?
+comun,1,,"De acuerdo con las normas generales de ordenación de las profesiones sanitarias, para poder ejercer una profesión sanitaria será requisito imprescindible:"
+comun,2,,"Según lo establecido en la normativa vigente sobre ordenación de las profesiones sanitarias, para poder ejercer una profesión sanitaria:"
+comun,3,,"Según la normativa vigente, el órgano encargado del Registro Estatal de Profesionales Sanitarios podrá (indíquese la que sea correcta):"
+comun,4,,"En el marco de la ordenación de las profesiones sanitarias, las personas pacientes:"
+comun,5,,"Según la normativa de ordenación de las profesiones sanitarias, el personal profesional y las personas responsables de los centros sanitarios facilitarán a sus pacientes el ejercicio del derecho a conocer:"
+comun,6,,"De acuerdo con las normas generales de ordenación de las profesiones sanitarias, el ejercicio del derecho del personal profesional sanitario a la renuncia a la atención a una persona paciente queda condicionado a que (señálese la respuesta incorrecta):"
+comun,7,,"Los centros sanitarios revisarán que el personal sanitario de su plantilla cumple los requisitos necesarios para ejercer la profesión conforme a lo previsto en la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias y en las demás normas aplicables:"
+comun,8,,"Según dispone la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, cuando una actuación sanitaria se realice por un equipo de profesionales (señálese la respuesta incorrecta):"
+comun,9,,"De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, diga cuál de los siguientes principios generales de la relación entre las personas que ejercen profesiones sanitarias y las personas atendidas no es tal:"
+comun,10,,"De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, los centros sanitarios acreditados para desarrollar programas de formación continuada:"
+comun,11,,"Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, sus disposiciones se aplicarán a:"
+comun,12,,"Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la ciudadanía tendrá los siguientes derechos en el conjunto del Sistema Nacional de Salud:"
+comun,13,,"Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la cartera común de servicios del Sistema Nacional de Salud se articula en torno a las siguientes modalidades:"
+comun,14,,"Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la cartera común básica de servicios asistenciales del Sistema Nacional de Salud comprende:"
+comun,15,,"Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la cartera común suplementaria del Sistema Nacional de Salud incluirá las siguientes prestaciones:"
+comun,16,,"Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la prestación de atención primaria no comprenderá:"
+comun,17,,"Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, para la elaboración del contenido de la cartera común de servicios del Sistema Nacional de Salud:"
+comun,18,,"Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la exclusión de una técnica, tecnología o procedimiento actualmente incluido en la cartera de servicios se llevará a cabo cuando:"
+comun,19,,"A los efectos de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la competencia profesional es:"
+comun,20,,"Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la declaración de actuaciones coordinadas en salud pública y en seguridad alimentaria deberán encuadrarse en alguno de los supuestos siguientes:"
+comun,21,,"Según dispone la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la ordenación del régimen personal estatutario de los servicios de salud se rige por una serie de principios y criterios. Señale cuales no están entre los mencionados por esta ley."
+comun,22,,"La condición de personal estatutario fijo se adquiere, tal y como prevé la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, por el cumplimiento de los siguientes requisitos:"
+comun,23,,"Según dice la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, en el proceso de la adquisición de la condición de personal estatutario fijo, no podrán recibir nombramiento y quedarán sin efecto las actuaciones de quienes:"
+comun,24,,"La pérdida de la condición de personal estatutario regulada en la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, se produce:"
+comun,25,,"Conforme a la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, señale cuál de las siguientes afirmaciones no es correcta:"
+comun,26,,Procede la extinción de la condición de personal estatutario fijo de los servicios de salud:
+comun,27,,"En materia de retribuciones, la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, prevé que:"
+comun,28,,"De acuerdo con la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, señale la respuesta correcta respecto a las retribuciones del personal estatutario de los servicios de salud:"
+comun,29,,La pérdida de la condición de personal estatutario de los servicios de salud se produce cuando la incapacidad permanente sea declarada:
+comun,30,,En el supuesto del personal estatutario de los servicios de salud:
+comun,31,,"Para el personal estatutario de los servicios de salud, el período nocturno tendrá la siguiente duración:"
+comun,32,,"Según establece la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud:"
+comun,33,,"La Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud regula el descanso semanal. Señale la respuesta que no es correcta:"
+comun,34,,"Conforme a la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud:"
+comun,35,,La excedencia voluntaria solicitada por el personal estatutario de los servicios de salud por interés particular exige haber prestado servicios efectivos en cualquiera de las Administraciones públicas durante:
+comun,36,,"La Ley 8/1997, de 26 de junio, de ordenación Sanitaria de Euskadi, establece que la Administración sanitaria vasca debe garantizar la tutela general de la salud pública a través de:"
+comun,37,,"La Ley 8/1997, de 26 de junio, de ordenación Sanitaria de Euskadi, reconoce la universalidad del derecho a la protección de la salud para:"
+comun,38,,"Señale cuál de los siguientes principios no se enuncian entre los principios informadores del sistema sanitario de Euskadi en la Ley 8/1997, de 26 de junio, de ordenación Sanitaria de Euskadi:"
+comun,39,,"La Ley 8/1997, de 26 de junio, de ordenación Sanitaria de Euskadi, establece respecto a las áreas de salud que:"
+comun,40,,"La Ley 8/1997, de 26 de junio, de ordenación Sanitaria de Euskadi prevé la creación de sistemas de información necesarios para facilitar el ejercicio adecuado de los distintos niveles de responsabilidad en el sistema. A tal fin, los datos de carácter personal relativos a la salud podrán ser recabados y tratados siempre que se cumplan los siguientes requisitos:"
+comun,41,,"La Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi al contemplar los derechos y deberes ciudadanos, alude a:"
+comun,42,,"El contrato-programa, tal y como establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi:"
+comun,43,,El consejo de administración de Osakidetza -Servicio Vasco de Salud está integrado por:
+comun,44,,"Según establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi:"
+comun,45,,"A los efectos de la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, las plantillas de personal del ente público Osakidetza-Servicio Vasco de Salud:"
+comun,46,,"En el ámbito territorial de la Comunidad Autónoma de Euskadi, las inspecciones necesarias para asegurar el cumplimiento de lo previsto en la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi y en el resto de la legislación sanitaria corresponde:"
+comun,47,,"Señale cuál de los siguientes criterios no está contemplado en la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi para la clasificación de las infracciones en leves, graves o muy graves:"
+comun,48,,"Según establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, en materia de sanciones señale la respuesta correcta:"
+comun,49,,"Según la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, las organizaciones a través de las que se procede a la provisión de servicios sanitarios con medios adscritos al ente público Osakidetza -Servicio Vasco de Salud:"
+comun,50,,"Respecto al personal sujeto al régimen estatutario que establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, señale la respuesta correcta:"
+comun,51,,Corresponderá la presidencia del ente p úblico Osakidetza-Servicio Vasco de Salud a:
+comun,52,,La función de nombrar y separar a quienes ocupen las Direcciones de División de la organización central del ente público corresponde a:
+comun,53,,"La composición del Consejo del ente público Osakidetza -Servicio Vasco de Salud contará, además de la persona que ejerza la Presidencia:"
+comun,54,,La propuesta de Plan Estratégico del ente p úblico Osakidetza-Servicio Vasco de Salud:
+comun,55,,"La función de convocar, presidir, suspender y levantar las sesiones, arbitrar las deliberaciones del Consejo de Administración del ente público Osakidetza- Servicio vasco de salud y decidir los empates con su voto de calidad corresponderá a:"
+comun,56,,La persona titul ar de la Dirección General del ente público Osakidetza- Servicio Vasco de Salud:
+comun,57,,"Corresponde a la organización central de administración y gestión corporativa del ente público Osakidetza-Servicio Vasco de Salud , en materia de gestión asistencial (señálese la respuesta incorrecta):"
+comun,58,,"Corresponde a la organización central de administración y gestión corporativa del ente público Osakidetza-Servicio Vasco de Salud, en materia de gestión de recursos humanos (señálese la respuesta incorrecta):"
+comun,59,,"Corresponde a cada organizaci ón de servicios sanitarios del ente público Osakidetza-Servicio Vasco de Sa lud el ejercicio de todas las facultades de gestión y administración que se requieran para el ejercicio de la actividad de provisión de servicios sanitarios que tengan encomendada, quedando excluidas únicamente:"
+comun,60,,El número de integrantes del equipo directivo de las organizaciones de servicios sanitarios del ente público Osakidetza-Servicio Vasco de Salud:
+comun,61,,La función de Representar al ente público Osakidetza-Servicio Vasco de Salud en la negociación colectiva del Acuerdo Marco de Condiciones de Trabajo del Personal corresponde a:
+comun,62,,"Para el desarrollo de funciones de propuesta y asesoramiento, así como de participación en las organizaciones de servicios sanitarios, existirá un Consejo de Dirección en cada una de ellas, integrado por:"
+comun,63,,Las organizaciones de servicios sanitarios del ente público Osakidetza-Servicio Vasco de Salud podrán:
+comun,64,,"En materia específica de inversiones, la competencia para ejecutar las compras de suministros que se consideren centralizadas, así como definir y/o ejecutar, en su caso, las consideradas integradas corresponde a:"
+comun,65,,"En el ámbito de una organizaci ón de servicios sanitarios del ente público Osakidetza-Servicio Vasco de Salud , presidir los Consejos Técnicos de participación profesional y promover su eficaz funcionamiento es una tarea que corresponde a:"
+comun,66,,"Según el Artículo 1 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza -Servicio Vasco de Salud, ¿qué dos niveles asistenciales se integran en las Organizaciones Sanitarias Integradas (OSI) de Osakidetza?"
+comun,67,,"Según el Artículo 2.1 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, ¿qué objetivo último persigue la configuración de las OSI?"
+comun,68,,"Según el Artículo 1 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza -Servicio Vasco de Salud, ¿bajo qué principio fundamental actuarán las Organizaciones Sanitarias Integradas (OSI) del ente público Osakidetza-Servicio Vasco de Salud ?"
+comun,69,,"De acuerdo con el Artículo 3 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza -Servicio Vasco de Salud, ¿cómo se define una OSI de clase ""monográfica""?"
+comun,70,,"Según el Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, las OSI de Tipo I se caracterizan, entre otros aspectos, por tener hospitales de carácter universitario y, además, por disponer de:"
+comun,71,,"Según el Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, para que una OSI sea clasificada como de Tipo III debe integrar, junto con servicios de atención primaria, un hospital de carácter general y tener una base poblacional atendida inferior a:"
+comun,72,,"Según el Artículo 5 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza -Servicio Vasco de Salud, ¿cuáles son los tres órganos de participación que conforman la estructura organizativa de las OSI?"
+comun,73,,"De acuerdo con el Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, ¿qué órganos componen el equipo directivo de una OSI, según la estructura general del artículo 5.2?"
+comun,74,,"De acuerdo con el Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, en las OSI de Tipo IV, la Dirección Gerencia asume, con el apoyo de puestos funcionales asistenciales, las funciones que corresponden a:"
+comun,75,,"De acuerdo con el Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza -Servicio Vasco de Salud, ¿cuál de los siguientes NO es un órgano de dirección encargado del gobierno y gestión de las OSI de Tipo I y II?"
+comun,76,,"Según el Artículo 7.3 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza -Servicio Vasco de Salud, ¿quién tiene la competencia para el nombramiento y cese de la persona titular de la Dirección Gerencia?"
+comun,77,,"Según los Artículos 7 y 9 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza -Servicio Vasco de Salud, ¿cuál es un requisito obligatorio para el nombramiento de los cargos de dirección de una OSI?"
+comun,78,,"Según el Artículo 8.m del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza -Servicio Vasco de Salud, ¿a qué dirección corresponde ""orientar la gestión desde una visión integradora empoderando la atención primaria""?"
+comun,79,,"De acuerdo con el Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza -Servicio Vasco de Salud, ¿con qué ámbito(s) adicional(es) debe coordinar su actividad la Dirección de Atención Integrada, además de con la atención primaria y hospitalaria?"
+comun,80,,"Según el Artículo 19.1 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, ¿quién ejerce la presidencia del Consejo Clínico Asistencial?"
+comun,81,,"Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, son titulares de los derechos y deberes recogidos en esta Declaración:"
+comun,82,,"Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, todos los derechos y obligaciones establecidos son exigibles:"
+comun,83,,"Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, los principios que informan e inspiran el conjunto de acciones de carácter sanitario que se desarrollen en el sistema sanitario de Euskadi son:"
+comun,84,,"A los efectos de la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi recogida en el Decreto 147/2015, de 21 de julio, se configuran las siguientes fases de la vida en las que se concretan necesidades específicas:"
+comun,85,,"Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, las personas pacientes y usuarias del Sistema Sanitario de Euskadi, en relación con la asistencia sanitaria específica referida al final de la vida, tienen derecho a:"
+comun,86,,"Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, la persona paciente o usuaria:"
+comun,87,,"Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, los Servicios de Atención a Pacientes y personas Usuarias:"
+comun,88,,"Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, las reclamaciones contra actuaciones del personal:"
+comun,89,,"Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, la documentación clínica es:"
+comun,90,,"Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, la información asistencial:"
+comun,91,,"Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, la información asistencial contiene, como mínimo:"
+comun,92,,"Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, garantiza el cumplimiento del derecho a la información asistencial:"
+comun,93,,"Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, la persona titular del derecho a la información asistencial es:"
+comun,94,,"Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, cuando existe riesgo inmediato grave para la integridad física o psíquica de la persona enferma y no es posible conseguir su autorización:"
+comun,95,,"Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, el personal facultativo proporcionará a la persona paciente, antes de recabar s u consentimiento escrito, la información básica siguiente:"
+comun,96,,"Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, en caso de que la persona paciente no acepte el alta:"
+comun,97,,"Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, la expresión de los objetivos vitales y valores personales tiene como fin:"
+comun,98,,"Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, en el documento de voluntades anticipadas:"
+comun,99,,"Según la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, si el nombramiento de representante en el documento de instrucciones previas ha recaído en favor de la persona cónyuge o pareja de hecho de la persona otorgante:"
+comun,100,,"Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, las instrucciones sobre el tratamiento pueden referirse:"
+comun,101,,"Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, el documento de voluntades anticipadas:"
+comun,102,,"Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, el documento de voluntades anticipadas puede ser modificado, sustituido por otro o revocado en cualquier momento por la persona otorgante:"
+comun,103,,"Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, la voluntad de la persona prevalece sobre las instrucciones contenidas en el documento de voluntades anticipadas ante cualquier intervención clínica siempre que:"
+comun,104,,"Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, en el documento de voluntades anticipadas se tendrán por no puestas:"
+comun,105,,"Según dispone la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, podrán tener acceso a los datos personales de las personas fallecidas:"
+comun,106,,"Señale la respuesta que no es correcta. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales a efectos del tratamiento de los datos, el consentimiento de la persona afectada tiene que ser una manifestación de voluntad que cumpla las siguientes características:"
+comun,107,,"Con relación al tratamiento de los datos personales de una persona menor de edad, señale la respuesta correcta:"
+comun,108,,"La Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, en su artículo 9 considera categorías especiales de datos aquellos que permitan, respecto a la persona afectada, identificar:"
+comun,109,,"La Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales establece que el tratamiento de datos de naturaleza penal podrá llevarse a cabo:"
+comun,110,,"Respecto al derecho de rectificación que regula la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, señale la respuesta correcta:"
+comun,111,,"Con relación al tratamiento de datos con fines de videovigilancia, señale la respuesta correcta:"
+comun,112,,"Respecto a los sistemas de información de denuncias internas que contempla la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, es correcta la siguiente afirmación:"
+comun,113,,"El artículo 1 del Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, añade un concepto específico al objeto de la ley que refuerza el fin último de la norma, ¿cuál es?"
+comun,114,,"Según el artículo 2 del Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, ¿a qué entidades privadas les es exigible el cumplimiento de los principios generales de esta ley durante su relación con la administración?"
+comun,115,,"Según el Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, ¿cuál de estos es un principio general de actuación de lo s poderes públicos vascos incorporado en la nueva redacción del artículo 3?"
+comun,116,,"Según el Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, respecto al principio de representación equilibrada, ¿en qué caso se permite excepcionalmente una presencia de mujeres superior al 60%?"
+comun,117,,"Según el Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, ¿qué planes específicos deben someterse ahora, obligatori amente, a una evaluación previa de impacto en función del género?"
+comun,118,,"Según el Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, ¿qué requisito nuevo deben cumplir las empresas de más de 50 personas trabajadoras para poder recibir subvenciones públicas?"
+comun,119,,"De acuerdo con lo establecido en el artículo 54 del texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, aprobado por el Decreto Legislativo 1/2023, de 16 de marzo, ¿cómo se define la ""violencia machista contra las mujeres""?"
+comun,120,,"De acuerdo con lo establecido en el artículo 54.3 del texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, aprobado por el Decreto Legislativo 1/2023, de 16 de marzo, ¿qué formas de violen cia se incorporan como casos constitutivos de violencia machista por estar específicamente recogidos en dicho apartado?"
+comun,121,,"¿Cuántos Objetivos Generales, clasificados como finalistas e instrumentales, se definen en la estructura del Plan de Salud Euskadi 2030?"
+comun,122,,"Según el Plan de Salud Euskadi 2030, la VISIÓN que se aspira a lograr como país es:"
+comun,123,,¿Cuál de los siguientes NO es un principio rector en los que se apoya el Plan de Salud Euskadi 2030?
+comun,124,,El Objetivo General 1 (OG1) del Plan de Salud Euskadi 2030 se enfoca en:
+comun,125,,"El Objetivo General 4 (OG4) del Plan de Salud Euskadi 2030 se define como “lograr la sostenibilidad y excelencia en los sistemas asistenciales sanitarios y sociosanitarios de Euskadi”, ¿en términos de qué tres conceptos clave?"
+comun,126,,¿A qué hace referencia el acrónimo AVAD en el Plan de Salud Euskadi 2030?
+comun,127,,"¿Cuál es uno de los objetivos clave del Plan de Salud Euskadi 2030, reiterado en varias secciones, respecto a la equidad y la gestión de la enfermedad?"
+comun,128,,¿Qué enfoque de investigación prioriza el Plan de Salud Euskadi 2030 para asegurar que los avances científicos lleguen de forma efectiva a la práctica clínica y la salud de la población?
+comun,129,,"Según el modelo de evaluación del Plan de Salud Euskadi 2030, ¿cuáles son los cuatro criterios fundamentales para determinar el éxito de las intervenciones?"
+comun,130,,"En la lucha contra las desigualdades, ¿qué tipo de soluciones habitacionales promueve el Plan de Salud Euskadi 2030 para las diferentes etapas de la vida?"
+comun,131,,"Según la comparativa de la Memoria Económica del Plan de Salud Euskadi 2030, ¿cuál es el programa presupuestario (fuera del gasto general de Osakidetza) con mayor dotación?"
+comun,132,,"El Plan de Salud Euskadi 2030 busca lograr ""comunidades amigables"" para las personas mayores. ¿Cuál es la finalidad última de esta estrategia?"
+comun,133,,"En el ámbito de la salud digital, ¿qué concepto destaca el Plan de Salud Euskadi 2030 para transformar la atención personalizada?"
+comun,134,,"¿Cómo define el Plan de Salud Euskadi 2030 el concepto de ""Intersectorialidad"" en la gestión de la salud?"
+comun,135,,¿Cuál es la visión del Plan de Salud Euskadi 2030 sobre el uso de la evidencia científica en la toma de decisiones políticas?
+comun,136,,"Según el análisis del contexto social del documento de Diagnóstico del Pacto Vasco de Salud de Euskadi, ¿qué factor se identifica como un motor clave para que la ciudadanía del siglo XXI demande un papel más activo en su salud?"
+comun,137,,El documento de Diagnóstico del Pacto Vasco de Salud de Euskadi señala que los flujos migratorios actuales en Euskadi:
+comun,138,,¿Cuál es uno de los principales desafíos identificados en el documento de Diagnóstico del Pacto Vasco de Salud de Euskadi respecto a la formación y relevo del personal sanitario?
+comun,139,,"Sobre el impacto del cambio global y climático, el documento de Diagnóstico del Pacto Vasco de Salud de Euskadi advierte de la aparición de:"
+comun,140,,El documento de Diagnóstico del Pacto Vasco de Salud de Euskadi propone que los indicadores sanitarios para evaluar el sistema deben:
+comun,141,,"¿Cuál es la finalidad principal de los Valores Fundamentales del Pacto Vasco de Salud, según el Libro de Valores y principios?"
+comun,142,,"¿Cuál de los siguientes es un Valor Fundamental explícito del Pacto Vasco de Salud, además de la Universalidad y la Equidad?"
+comun,143,,El principio de Innovación en el Pacto Vasco de Salud se aplica a:
+comun,144,,"En el marco del Pacto Vasco de Salud, dentro de los principios rectores, la ""Orientación al Valor"" significa que el sistema debe priorizar:"
+comun,145,,¿En qué grandes ámbitos se estructuran las Líneas Estratégicas del Pacto Vasco de Salud?
+comun,146,,¿Cuál es el papel de la Atención Primaria y Comunitaria dentro de las Líneas Estratégicas del Pacto Vasco de Salud?
+comun,147,,"En relación con la Línea Estratégica 06 sobre ""Cronicidad"" del Pacto Vasco de Salud, ¿qué objetivo se persigue primordialmente?"
+comun,148,,"La Línea Estratégica 07 sobre ""Atención Sociosanitaria"" del Pacto Vasco de Salud subraya la necesidad de:"
+comun,149,,"Respecto a la ""Salud Mental"" (Línea 11), el Pacto Vasco de Salud pone el foco en:"
+comun,150,,"La Línea Estratégica 18 sobre ""Digitalización en Salud"" del Pacto Vasco de Salud busca la transformación digital para:"
+comun,151,,¿Cuál es el Objetivo General establecido para la “Estrategia de Seguridad del Paciente 20-30”?
+comun,152,,"El principio hipocrático al que se hace referencia en la “Estrategia de Seguridad del Paciente 20-30”, y que la ciudadanía asume que se verifica en el transcurso de la actividad asistencial, es:"
+comun,153,,¿Cuáles son las dos nuevas Líneas de Acción incorporadas en la “Estrategia de Seguridad del Paciente 20 -30” que responden a una necesidad percibida por las personas expertas?
+comun,154,,"De acuerdo con la “Estrategia de Seguridad del Paciente 20 -30”, ¿cómo se denomina al incidente de seguridad que, a diferencia del incidente sin daño, sí ocasiona algún tipo de daño a las personas atendidas?"
+comun,155,,¿Cuál es el enfoque principal de la Línea de Acción Corporativa L2 de la “Estrategia de Seguridad del Paciente 20-30”?
+comun,156,,"¿Cuál de los siguientes es el Objetivo Específico número 1 de la “Estrategia de Seguridad del Paciente 20-30”, enfocado en el cambio interno?"
+comun,157,,La Línea de Acción Corporativa L8 de la “Estrategia de Seguridad del Paciente 20-30” está dedicada a:
+comun,158,,¿Qué documento se menciona en la “Estrategia de Seguridad del Paciente 20 - 30” como el que determinó que las personas atendidas por un sistema medicalizado (tipo 061/112) presentan un mayor porcentaje de incidentes de seguridad en el entorno de Emergencias?
+comun,159,,"El capítulo de Formación de la “Estrategia de Seguridad del Paciente 20 -30” señala que, además de impulsar el desarrollo de prácticas seguras, las organizaciones comprometidas orientan sus esfuerzos a aumentar la formación en los llamados:"
+comun,160,,¿Cuál de las siguientes Líneas de Acción de la “Estrategia de Seguridad del Paciente 20 -30” NO está relacionada con el sistema de utilización del medicamento?
+comun,161,,"Según el diagnóstico del II Plan para la Igualdad de Mujeres y Hombres en Osakidetza, ¿qué porcentaje de mujeres y hombres, respectivamente, componía la plantilla total de Osakidetza en enero de 2025?"
+comun,162,,Una de las metas del II Plan para la Igualdad de Mujeres y Hombres en Osakidetza es la “CAPACITACIÓN EN IGUALDAD”. ¿Cuál es su objetivo principal?
+comun,163,,¿Qué institución aprueba el II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028)?
+comun,164,,"De acuerdo con el II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025 -2028), ¿qué concepto define, dentro del diagnóstico de la organización, la dificultad invisible que encuentran las mujeres para acceder a puestos de mayor responsabilidad y toma de decisiones?"
+comun,165,,Una de las Metas del II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028) es “CORRESPONSABILIDAD”. ¿Cuál es el objetivo específico asociado a esta meta?
+comun,166,,"¿Cuál fue el objetivo del I Plan de Igualdad, teniendo en cuenta su condición de primer plan estratégico de Osakidetza en esta materia?"
+comun,167,,¿Cuál es la Meta 5 establecida en el II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028)?
+comun,168,,"En relación con la violencia machista contra las mujeres, el Plan II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025 -2028) establece como línea de actuación prioritaria:"
+comun,169,,El III Plan de Normalización del Uso del Euskera en Osakidetza 2022 -2028 establece respecto a los mensajes audiovisuales que:
+comun,170,,"De acuerdo con el III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028, señale la respuesta correcta:"
+comun,171,,"En atención al III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028, señale la respuesta correcta:"
+comun,172,,"El III Plan de Normalización del Uso del Euskera en Osakidetza 2022 -2028 contempla que tanto en los servicios de recepción y admisión, como en las unidades asistenciales y administrativas a toda la ciudadanía vascohablante debe garantizarse:"
+comun,173,,"El III Plan de Normalización del Uso del Euskera en Osakidetza 2022 -2028 establece que, en los escritos individualizados de respuesta a solicitudes y reclamaciones de pacientes o personas usuarias de Osakidetza se utilizará:"
+comun,174,,"Siguiendo lo previsto en el III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028, señale la respuesta que no es correcta:"
+comun,175,,"En atención a lo previsto en el III Plan de Normalización del Uso del Euskera en Osakidetza 2022 -2028, en todos los centros de atención primaria ha de ponerse en marcha un procedimiento para que, en la medida de las posibilidades, se propongan servicios en euskera a las personas pacientes que hayan registrado esta lengua como preferente y que aún reciban los citados servicios en castellano. Señale a qué servicios se refiere el citado Plan:"
+comun,176,,Conforme al III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028:
+comun,177,,"Según el Resumen Ejecutivo del Plan Oncológico Integral de Euskadi (POIE) 2025-2030, ¿de qué porcentaje de los fallecimientos en Euskadi fue responsable el cáncer en el año 2023?"
+comun,178,,"Según el Resumen Ejecutivo del Plan Oncológico Integral de Euskadi (POIE) 2025-2030, ¿cuáles fueron las dos localizaciones de cáncer más frecuentes en Euskadi en el periodo 2015-2019, consideradas separadamente por sexo?"
+comun,179,,¿Cuál de las siguientes es una de las aspiraciones definidas en la VISIÓN del Plan Oncológico Integral de Euskadi (POIE) 2025-2030?
+comun,180,,La Misión del Plan Oncológico Integral de Euskadi (POIE) 2025 -2030 busca generar valor a la ciudadanía vasca en términos de:
+comun,181,,"En el Plan Oncológico Integral de Euskadi (POIE) 2025-2030, la “Centralidad de la persona y humanización” como Principio Rector incluye la incorporación de la perspectiva de género y la atención a:"
+comun,182,,Teniendo en cuenta la introducción y el contexto del Plan Oncológico Integral de Euskadi 2025 -2030. ¿Cuál fue una de las principales áreas de mejora identificadas en la evaluación del Plan Oncológico de Euskadi (POE) 2018 - 2023?
+comun,183,,"Según el listado de acrónimos del Plan Oncológico Integral de Euskadi (POIE) 2025-2030, ¿a qué hacen referencia las siglas PROMs?"
+comun,184,,El Plan Oncológico Integral de Euskadi (POIE) 2025-2030 se alinea con el Plan de Salud de Euskadi 2030. ¿Cuál de las siguientes es una de las prioridades estratégicas de dicho Plan de Salud mencionadas en el documento?
+comun,185,,"¿Cuál es el objeto fundamental de la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, según su Artículo 1?"
+comun,186,,"Conforme al Artículo 5 de la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿qué requisito de nacionalidad se exige para poder recibir la prestación de ayuda para morir?"
+comun,187,,"Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿qué concepto define la ley como la ""administración directa a la persona paciente de una sustancia por parte del personal sanitario competente""?"
+comun,188,,"Según el Artículo 5 de la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿cuál es la condición que debe padecer la persona paciente para solicitar la prestación de ayuda para morir?"
+comun,189,,"Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿cuál debe ser la periodicidad mínima con la que el personal facultativo responsable debe consultar a la persona paciente, una vez presentada la solicitud, para confirmar si mantiene su deseo?"
+comun,190,,"Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿cuál es el derecho que asiste al personal sanitario directamente implicado en la prestación de ayuda para morir?"
+comun,191,,"Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿qué define como ""padecimiento grave, crónico e imposibilitante""?"
+comun,192,,"Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿cuál es el plazo que tiene la persona facultativa responsable para comunicar la resolución favorable a la Comisión de Garantía y Evaluación para su posterior verificación?"
+comun,193,,"¿Cuál es el principio general que establece la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas?"
+comun,194,,"Con carácter general, el personal comprendido en la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, podrá desempeñar:"
+comun,195,,"Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, ¿qué requisito es imprescindible para autorizar la compatibilidad con una actividad privada?"
+comun,196,,"Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, ¿puede percibirse más de una remuneración con cargo a los presupuestos públicos?"
+comun,197,,"Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, ¿qué ocurre si se desempeña una actividad incompatible sin autorización?"
+comun,198,,"Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, ¿qué actividades están exceptuadas del régimen general de incompatibilidades?"
+comun,199,,"Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, para que se autorice la compatibilidad para un segundo puesto público es necesario que:"
+comun,200,,"La finalidad principal de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, es:"
