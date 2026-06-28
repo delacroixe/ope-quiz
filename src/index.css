@@ -153,48 +153,11 @@ body {
   color: var(--text);
   margin-bottom: 1.5rem;
 }
-.section-title {
-  font-size: 0.78rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  color: var(--text-muted);
-  margin: 1.5rem 0 0.75rem;
-}
 .empty-state {
   text-align: center;
   padding: 4rem 2rem;
   color: var(--text-muted);
   line-height: 2;
-}
-
-/* ── pstat grid (shared by Profile, History, Stats) ── */
-.pstat-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
-  gap: 0.75rem;
-  margin-bottom: 1.5rem;
-}
-.pstat-card {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 1rem 1.1rem;
-  display: flex;
-  flex-direction: column;
-  gap: 0.25rem;
-  box-shadow: 0 1px 3px rgb(0 0 0 / 0.05);
-}
-.pstat-val {
-  font-size: 1.75rem;
-  font-weight: 900;
-  color: var(--primary);
-  line-height: 1;
-}
-.pstat-label {
-  font-size: 0.75rem;
-  color: var(--text-muted);
-  font-weight: 500;
 }
 
 /* ── Profile screen ── */
@@ -975,12 +938,7 @@ body {
   margin-bottom: 1rem;
 }
 
-/* ── Stats page ── */
-.stats-page {
-  max-width: 700px;
-  margin: 0 auto;
-  padding: 1.5rem 1rem 5rem;
-}
+
 
 .stats-nav {
   display: flex;
@@ -1119,54 +1077,6 @@ body {
 .bloque-name { font-size: 0.9rem; font-weight: 600; }
 .bloque-count { font-size: 0.8rem; color: var(--text-muted); }
 
-/* Bar chart */
-.session-chart {
-  display: flex;
-  gap: 0.4rem;
-  align-items: flex-end;
-  overflow-x: auto;
-  padding-bottom: 0.25rem;
-}
-.chart-col {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 0.3rem;
-  flex: 1;
-  min-width: 32px;
-}
-.chart-label {
-  font-size: 0.68rem;
-  font-weight: 700;
-  white-space: nowrap;
-}
-.chart-bar-wrap {
-  width: 100%;
-  height: 80px;
-  background: var(--border);
-  border-radius: 4px;
-  overflow: hidden;
-  display: flex;
-  align-items: flex-end;
-}
-.chart-bar-fill {
-  width: 100%;
-  border-radius: 4px 4px 0 0;
-  transition: height 0.3s ease;
-}
-.chart-date {
-  font-size: 0.65rem;
-  color: var(--text-muted);
-  white-space: nowrap;
-}
-.chart-ref-label {
-  font-size: 0.72rem;
-  color: var(--text-muted);
-  text-align: right;
-  margin-top: 0.5rem;
-  font-style: italic;
-}
-
 /* Topic lists */
 .topic-list { display: flex; flex-direction: column; gap: 1rem; }
 .topic-row { display: flex; flex-direction: column; gap: 0.35rem; }
@@ -1221,19 +1131,6 @@ body {
 }
 .topic-stat-ok  { color: var(--success) !important; }
 .topic-stat-err { color: var(--error)   !important; }
-
-/* Empty state */
-.stats-empty {
-  text-align: center;
-  padding: 4rem 2rem;
-  color: var(--text-muted);
-}
-.stats-empty-title {
-  font-size: 1.2rem;
-  font-weight: 700;
-  color: var(--text);
-  margin-bottom: 0.5rem;
-}
 
 /* ── Progreso: summary cards ── */
 .progress-summary {
@@ -1363,7 +1260,4 @@ body {
   /* Offset home/page padding for mobile bar */
   .home  { padding-top: 1.5rem; }
   .page  { padding-top: 1.5rem; }
-  .stats-page { padding-top: 1.5rem; }
-
-  .pstat-grid { grid-template-columns: repeat(2, 1fr); }
 }
