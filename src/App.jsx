@@ -250,7 +250,7 @@ export default function App() {
           <FilterBar
             config={config} setConfig={setConfig}
             topics={topics} total={allQuestions.length} filtered={filteredPool.length}
-            onStart={startQuiz} questionStats={questionStats} allQuestions={allQuestions}
+            onStart={startQuiz}
           />
         )}
         {screen === 'stats'   && <Stats allQuestions={allQuestions} questionStats={questionStats} />}
