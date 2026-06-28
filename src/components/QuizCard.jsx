@@ -1,7 +1,12 @@
+import { useState } from 'react'
 import VerifyButton from './VerifyButton'
 
-export default function QuizCard({ session, onAnswer, onNext, onFinish }) {
+const IMAGE_REF = /según el diagrama|según la figura|según el esquema|según la imagen|en la figura|la figura anterior|el diagrama anterior|el esquema anterior|véase la figura|se muestra en|mostrado en la figura/i
+
+export default function QuizCard({ session, onAnswer, onNext, onFinish, onExit }) {
   const { questions, current, answers, modo } = session
+  const [confirmExit, setConfirmExit] = useState(false)
+
   const q = questions[current]
   const isLast = current >= questions.length - 1
   const selectedAnswer = answers[q.id]
@@ -31,11 +36,35 @@ export default function QuizCard({ session, onAnswer, onNext, onFinish }) {
         <span className="badge badge-bloque">
           {q.bloque === 'especifico' ? 'Específico' : 'Común'}
         </span>
+        <button
+          className="btn-exit-quiz"
+          onClick={() => setConfirmExit(true)}
+          title="Salir del test"
+        >
+          ✕ Salir
+        </button>
       </div>
+
+      {confirmExit && (
+        <div className="exit-confirm">
+          <span>¿Salir del test? El progreso de esta sesión no se guardará.</span>
+          <div className="exit-confirm-actions">
+            <button className="btn-cancel" onClick={() => setConfirmExit(false)}>Cancelar</button>
+            <button className="btn-danger" onClick={onExit}>Salir de todos modos</button>
+          </div>
+        </div>
+      )}
 
       <p className="badge-tema-inline">{q.tema}</p>
 
       <div className="question-card">
+        {IMAGE_REF.test(q.enunciado) && (
+          <div className="image-ref-notice">
+            <span>⚠️</span>
+            <span>Esta pregunta hace referencia a un diagrama o figura del examen que no está disponible en formato texto. Consulta el PDF original para ver el visual.</span>
+          </div>
+        )}
+
         <p className="question-text">
           <span className="question-num">{q.num_bloque}.</span> {q.enunciado}
         </p>

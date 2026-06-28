@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(brew install *)",
+      "Bash(pdftotext \"/Users/antuan/Dev/ope/PDF/TEC SUPERIOR INFORMATICA_cas.pdf\" -)",
+      "Bash(node -e ' *)"
+    ]
+  }
+}
